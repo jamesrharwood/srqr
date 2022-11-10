@@ -1,1 +1,1 @@
-# srqr
+# SRQR guidelines
