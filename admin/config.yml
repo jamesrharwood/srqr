@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: jamesrharwood/srqr
-  site_domain: location.hostname
+  site_domain: https://jamesrharwood.github.io/equator-guidelines-website/guidelines/srqr/
   base_url: https://api.netlify.com
   auth_endpoint: auth
   cms_label_prefix: netlify-cms/
