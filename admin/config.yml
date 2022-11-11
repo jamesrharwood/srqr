@@ -6,8 +6,6 @@ backend:
   auth_endpoint: auth
   cms_label_prefix: netlify-cms/
   branch: master # Branch to update (optional; defaults to master)
-publish_mode: editorial_workflow
-media_folder: "uploads" # Media files will be stored in the repo under /uploads
 collections:
   - name: "item" # Used in routes, e.g., /admin/collections/blog
     label: "Reporting Item" # Used in the UI
