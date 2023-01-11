@@ -8,6 +8,8 @@ The authors should provide a title that clearly conveys the topic of the study. 
 
 ## Examples
 
-Residents learning from a narrative experience with dying patients: a qualitative study.
-Medical students' perceptions of the factors influencing their academic performance: an exploratory interview study with high-achieving and re-sitting medical students.
-Undergraduate rural medical education program development: focus group consultation with the NRHA Rural Medical Educators Group.
+> Residents learning from a narrative experience with dying patients: a qualitative study.
+
+> Medical students' perceptions of the factors influencing their academic performance: an exploratory interview study with high-achieving and re-sitting medical students.
+
+> Undergraduate rural medical education program development: focus group consultation with the NRHA Rural Medical Educators Group.

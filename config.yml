@@ -1,0 +1,14 @@
+pagetitle: "The SRQR guidelines for reporting qualitative research studies"
+title-prefix: SRQR
+description-meta: "#PLACEHOLDER"
+author-meta: "#PLACEHOLDER"
+doi: 10.1097/ACM.0000000000000388
+items: 
+  - title
+  - abstract
+  - Introduction: 
+    - problem
+    - purpose
+  - Methods:
+    - approach
+
