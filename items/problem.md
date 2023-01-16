@@ -1,8 +1,9 @@
 ---
-id: problem
+id: problem-formulation
 title: Problem Formulation
-subtitle: Description and significance of the problem/phenomenon studied; review of relevant theory and empirical work; problem statement.
 ---
+**Description and significance of the problem/phenomenon studied; review of relevant theory and empirical work; problem statement.**
+
 The problem formulation typically appears in the introduction and describes the theoretical and/or practical issues or concerns that make the study necessary. It should provide an overview of what is known about the problem, highlight gaps in current knowledge (the problem statement), and define the scope of the research problem or phenomena addressed in the study (what will and will not be included). It should include a review of theoretical and/or empirical work directly relevant to the problem or phenomena studied. The problem formulation should be described in a way that suggests the need for a qualitative approach (e.g., to elucidate poorly defined or previously unexplored constructs, to generate theories or to develop causal explanations connecting processes and outcomes, to understand phenomena as they naturally occur and the role of context, to explore problems involving high complexity, to gain insight into participants’ perspectives when such insight is lacking).
 
 ## Example

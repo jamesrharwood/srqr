@@ -1,16 +1,16 @@
 ---
 id: abstract 
 title: Abstract
-subtitle: Summary of key elements of the study using the abstract format of the intended publication; typically includes background, purpose, methods, results, and conclusions.
 ---
+**Summary of key elements of the study using the abstract format of the intended publication; typically includes background, purpose, methods, results, and conclusions.**
+
 A reader should be able to read the abstract independent of the manuscript and get a sense of the background, purpose, methods, main results and implications that will be described in greater detail in the manuscript. The information presented in the abstract should be consistent with the information presented in the full text.
 
 The abstract's structure typically needs to conform to journal guidelines, but authors should attempt to include the following:
 
 * Background about the problem or phenomenon of interest
 * Description of the study purpose or research question;
-* Methods, including the approach or perspective (e.g., general inductive, grounded
-theory), context (setting, time period), sample (number and key characteristics of participants, events, documents), data collection strategies (e.g., observation, interview, focus group) and data analysis techniques
+* Methods, including the approach or perspective (e.g., general inductive, grounded theory), context (setting, time period), sample (number and key characteristics of participants, events, documents), data collection strategies (e g., observation, interview, focus group) and data analysis techniques
 * Description of main findings (e.g., themes or inferences) related to the study purpose and/or research question
 * Study implications
 
@@ -18,7 +18,7 @@ In some cases the journal's structured abstract format aligns more with positivi
 
 ## Example
 
-__Purpose__: Although academic centers rely on assessments from medical trainees regarding the effectiveness of their faculty as teachers, little is known about how trainees conceptualize and approach their role as assessors of their clinical supervisors.
+__Purpose__: Although academic centers rely on assessments from medical trainees regarding the effectiveness of their faculty as teachers, little is known about how trainees conceptualize and approach their role as assessors of their clinical supervisors
 
 __Method__: In 2010, using a constructivist grounded theory approach, five focus group interviews were conducted with 19 residents from an internal medicine residency program. A constant comparative analysis of emergent themes was conducted.
 
