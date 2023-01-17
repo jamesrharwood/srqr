@@ -6,3 +6,22 @@ web:
         - purpose.md
     - Methods:
         - approach.md
+        - reflexivity.md
+        - context.md
+        - sample.md
+        - ethics.md
+        - data_collection_methods.md
+        - data_collection_instruments.md
+        - units_of_study.md
+        - data_processing.md
+        - data_analysis.md
+        - trustworthiness.md
+    - Results:
+        - synthesis_and_interpretation.md
+        - links_to_empirical_data.md
+    - Discussion:
+        - integration_with_prior_work.md
+        - limitations.md
+    - Other:
+        - conflicts_of_interest.md
+        - funding.md
