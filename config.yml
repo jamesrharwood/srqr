@@ -9,12 +9,4 @@ translations:
     url: "https://www.google.com"
   - language: "German"
     url: "https://www.google.com"
-items: 
-  - title
-  - abstract
-  - Introduction: 
-    - problem
-    - purpose
-  - Methods:
-    - approach
 
