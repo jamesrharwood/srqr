@@ -2,9 +2,21 @@
 id: ethics
 title: Ethical issues pertaining to human subjects
 ---
-**Documentation of approval by an appropriate ethics review board and participant consent, or explanation for lack thereof; other confidentiality and data security issues.**
+Report approval for the study from an appropriate institutional review board for research associated with human subjects.
+<!-- #TODO: Reword this? -->
+Describe procedures used to protect participants, including:
 
-Qualitative research often involves interaction between researchers and research participants. Correspondingly, researchers should ensure that participants are fully aware of their participation in a research study, the risks and benefits associated with the study, the steps and precautions the researchers will take to minimize risks, such as loss of privacy and confidentiality, and how the researchers plan to use the data. Authors should report approval for the study from an appropriate institutional review board for research associated with human subjects. They should describe procedures used to protect participants, including data collection (e.g., recruitment and informed consent) analysis (e.g., data security and integrity) and reporting of findings (e.g., anonymization of excerpts). If researchers provided compensation or offered incentives to facilitate participation, this should be reported.
+* data collection (e.g., recruitment and informed consent)
+* analysis (e.g., data security and integrity)
+* and reporting of findings (e.g., anonymization of excerpts).
+
+If you provided compensation or offered incentives to facilitate participation, report this too.
+
+<!-- #TODO: null case - not required, not done -->
+
+**Why:**Qualitative research often involves interaction between researchers and research participants. Correspondingly, researchers should ensure that participants are fully aware of their participation in a research study, the risks and benefits associated with the study, the steps and precautions the researchers will take to minimize risks, such as loss of privacy and confidentiality, and how the researchers plan to use the data.
+
+<!-- #TODO: Why? doesn't justify why a reader needs this info. Journal requirement? -->
 
 ## Examples
 

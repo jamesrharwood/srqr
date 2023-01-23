@@ -4,11 +4,26 @@ title: Sampling strategy
 ---
 **How and why research participants, documents, or events were selected; criteria for deciding when no further sampling was necessary (e.g., sampling saturation); rationale.**
 
-The authors should describe how and why research participants, documents, and/or events were selected for inclusion in (and, if appropriate, exclusion from) the study, along with a justification for this strategy. We recommend that authors describe the sampling strategy rather than simply labeling the strategy (e.g., "purposive" or "snowball"), since such labels do not have a universally accepted definition and, more importantly, since procedures tend to be study- specific. Several sampling strategies are commonly used in qualitative research, although most fall under the umbrella of purposeful (or purposive) sampling. Purposeful sampling means that participants, documents, or events are selected for their relevance to the research question, based on guiding theory or experiences and assumptions of the researchers. Over the course of the research process, researchers may determine that additional or different participants, documents, or events should be included to address the research question. Other sampling techniques, such as theoretical sampling (seeking examples of theoretical constructs), snowball sampling (using study participants to identify additional participants who meet study criteria), and convenience sampling (including any volunteers with no or minimal criteria for inclusion) may be appropriate depending on the question and approach, so long as the authors provide explanation and justification.
+Describe how and why research participants, documents, and/or events were selected for inclusion in (and, if appropriate, exclusion from) the study, along with a justification for this strategy.
 
-Although investigators often do not determine sample size a priori in qualitative research, they should nonetheless describe how they established the final sample size. When appropriate (e.g., when a flexible sampling strategy was used), they should explain the criteria used to decide when no further sampling was necessary. If data collection ends at the point when the researchers determine that “saturation” has been reached, then the specific criteria used to define saturation should be described.
+Describe the sampling strategy rather than simply labeling it (e.g., "purposive" or "snowball"), since such labels do not have a universally accepted definition and, more importantly, procedures tend to be study- specific.
+<!-- #TODO: null case for sampling strategy -->
 
-Procedures used to recruit participants should also be described, including who was involved in recruitment, what their relationship was to participants, how and when recruitment occurred, and why these procedures were selected. (See also Item 6)
+Describe how you established the final sample size:
+
+* If you used a flexible sampling strategy, then explain the criteria used to decide when no further sampling was necessary.
+* If data collection ended once “saturation” had been reached, then describe the specific criteria used to define saturation.
+<!-- #TODO: null case for sample size-->
+<!-- #TODO definition of sampling implies design judgement  -->
+
+Describe procedures used to recruit participants, including:
+
+* who was involved in recruitment
+* what their relationship was to participants
+* how and when recruitment occurred
+* why these procedures were selected. (See also Item 6)
+
+<!-- #TODO: justify why this information is important -->
 
 ## Examples
 
@@ -16,4 +31,4 @@ Procedures used to recruit participants should also be described, including who 
 
 > Purposive sampling was directed towards achieving maximum variation in age and specialty, using a snowball approach (‘a non-probabilistic form of sampling in which persons initially chosen for the sample are used as informants to locate other persons having necessary characteristics making them eligible for the sample’).[REF ]
 
-> Potential participants were all medical students in Years 1 and 2 at the University of Toronto in 2004. Following research ethics board approval, recruitment was conducted via e- mail to class listservs. Participant responses were sent directly to the research assistant, who was unknown to participants, so that the principal investigators did not know who did or did not participate. This process was engaged to protect participants’ anonymity and to avoid any impression of coercion because the lead researcher (SG) was involved in the administration of the undergraduate curriculum at the time. Sample size was estimated to be sufficient based on the principle of theoretical saturation [REF] and our previous experience with this methodology (i.e., with a relatively homogeneous population, we expected to reach saturation with approximately 15 interviews per group). There were no exclusion criteria and we accepted the first 15 students from each class who volunteered.
+> Potential participants were all medical students in Years 1 and 2 at the University of Toronto in 2004. Following research ethics board approval, recruitment was conducted via e-mail to class listservs. Participant responses were sent directly to the research assistant, who was unknown to participants, so that the principal investigators did not know who did or did not participate. This process was engaged to protect participants’ anonymity and to avoid any impression of coercion because the lead researcher (SG) was involved in the administration of the undergraduate curriculum at the time. Sample size was estimated to be sufficient based on the principle of theoretical saturation [REF] and our previous experience with this methodology (i.e., with a relatively homogeneous population, we expected to reach saturation with approximately 15 interviews per group). There were no exclusion criteria and we accepted the first 15 students from each class who volunteered.

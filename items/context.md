@@ -2,9 +2,11 @@
 id: context
 title: Context
 ---
-**Setting/site and salient contextual factors; rationale.**
+Describe the setting/site(s) in which the study was conducted, the reason(s) why the setting/site(s) was selected, and the salient cultural, political, historical, economic and/or other external factors that influence the study.
 
-The authors should describe the setting/site(s) in which the study was conducted, the reason(s) why the setting/site(s) was selected, and the salient cultural, political, historical, economic and/or other external factors that influence the study. This information helps readers interpret the meaning and significance of the study findings by situating them in social, cultural, temporal and other relevant contexts. Additional context may be reported with findings (i.e., the Results section) to add evidence for interpretations and to enhance discussion of transferability.
+Additional context may be reported with findings (i.e., the Results section) to add evidence for interpretations and to enhance discussion of transferability.
+
+**Why:** This helps readers interpret the meaning and significance of the study findings by situating them in social, cultural, temporal and other relevant contexts.
 
 ## Example
 

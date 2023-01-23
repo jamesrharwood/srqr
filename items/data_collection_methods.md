@@ -2,15 +2,23 @@
 id: data-collection-methods
 title: Data collection methods
 ---
-**Types of data collected; details of data collection procedures including (as appropriate) start and stop dates of data collection and analysis, iterative process, triangulation of sources/methods, and modification of procedures in response to evolving study findings; rationale.**
+Describe data collection methods and design in detail, and justify them in relation to the research question(s), paradigm, approach, and other methods.
+<!-- #TODO is triangulation a requirement, or part of definition of data collection methods? Isn't it in item 11 again? -->
+If data collection and analysis was iterative:
 
-Qualitative research encompasses an array of data collection methods appropriate for various paradigms and approaches, including (but not limited to) interviews, focus groups, observations (direct or indirect via video), and review of written text, photographs, and other documents or materials. Researchers may choose to use information from multiple sources, contexts, and/or time points depending on their approach and research question(s). (See Item 11 for triangulation.) Given this diversity of methods, authors should describe in detail their data collection design and method(s) and justify them in relation to the research question(s), paradigm, approach, and other methods. Methods used to decide when to end data collection should also be described (see Item 8).
+* describe the iterative process
+* if changes occurred during the research process, describe how and why study procedures changed in response to evolving study findings.
 
-Qualitative research often occurs as an iterative process, meaning that researchers begin data analysis before they complete data collection. The data collection and analysis process may occur in phases or stages, and thus authors must clearly describe the iterative process of data collection and analysis. As part of an iterative collection-analysis process, researchers will often alter their data collection methods to explore their preliminary impressions in greater depth and/or actively pursue confirming and disconfirming perspectives. If such changes occur during the research process, authors should describe how and why study procedures changed in response to evolving study findings.
+Identify the study period.
 
-The study period (start and end dates for data collection and analysis) should be identified so that readers can place the study in temporal context and identify factors not mentioned by the authors that might affect findings, interpretation, and implications. (See Item 8 for ending data collection.)
+Describe important characteristics of the individuals conducting interviews, observations or focus groups, and methods used to train these individuals.
 
-Authors should describe important characteristics of the individuals conducting interviews, observations or focus groups, and methods used to train these individuals. This information clarifies the relationship between the individuals involved in data collection and the participants in the research and also explains what efforts were made to ensure consistency in the data collection process (See Items 6 and 15.)
+**Why:**The study period helps readers place the study in temporal context and identify factors not mentioned by the authors that might affect findings, interpretation, and implications. (See Item 8 for ending data collection.)
+<!-- #TODO: why is item 8 relevant? -->
+
+Describing researcher characteristics clarifies the relationship between the individuals involved in data collection and the participants in the research and also explains what efforts were made to ensure consistency in the data collection process (See Items 6 and 15.)
+<!-- #TODO: does it? This is framed as justification but maybe it's instruction of what to write? Why do readers need this? -->
+<!-- #TODO: This isn't in the subheading: **Types of data collected; details of data collection procedures including (as appropriate) start and stop dates of data collection and analysis, iterative process, triangulation of sources/methods, and modification of procedures in response to evolving study findings; rationale.** -->
 
 ## Examples
 
