@@ -2,7 +2,9 @@
 id: abstract 
 title: Abstract
 ---
-**Summary of key elements of the study using the abstract format of the intended publication; typically includes background, purpose, methods, results, and conclusions.**
+Summary of key elements of the study using the abstract format of the intended publication; typically includes background, purpose, methods, results, and conclusions.
+
+## Read more
 
 A reader should be able to read the abstract independent of the manuscript and get a sense of the background, purpose, methods, main results and implications that will be described in greater detail in the manuscript. The information presented in the abstract should be consistent with the information presented in the full text.
 

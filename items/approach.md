@@ -2,7 +2,9 @@
 id: qualitative-approach
 title: Qualitative approach and research paradigm
 ---
-**Qualitative approach (e.g., ethnography, grounded theory, case study, phenomenology, narrative research) and guiding theory if appropriate; identifying the research paradigm (e.g., post-positivist, constructivist/interpretivist) is also recommended; rationale.**
+Qualitative approach (e.g., ethnography, grounded theory, case study, phenomenology, narrative research) and guiding theory if appropriate; identifying the research paradigm (e.g., post-positivist, constructivist/interpretivist) is also recommended.
+
+## Read more
 
 The research paradigm is the set of beliefs and assumptions that guide the research process. These commonly include positivist, post-positivist, constructivist or interpretivist, and critical theory. Qualitative research generally draws from a post-positivist or constructivist/interpretivist paradigm. We recommend identifying the research paradigm so that readers understand whether the researcher assumes that there is a single, objective reality (positivist or post-positivist) and has thus designed the study to describe this reality or whether the researcher assumes multiple, subjective realities and designed the study to describe these multiple realities, with no attempt to merge or reconcile these realities (constructivist/interpretivist). The paradigm has implications for the study design, approach, methods, and techniques to ensure rigor and trustworthiness.
 

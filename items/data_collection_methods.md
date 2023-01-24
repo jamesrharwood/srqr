@@ -2,7 +2,9 @@
 id: data-collection-methods
 title: Data collection methods
 ---
-**Types of data collected; details of data collection procedures including (as appropriate) start and stop dates of data collection and analysis, iterative process, triangulation of sources/methods, and modification of procedures in response to evolving study findings; rationale.**
+Types of data collected; details of data collection procedures including (as appropriate) start and stop dates of data collection and analysis, iterative process, triangulation of sources/methods, and modification of procedures in response to evolving study findings.
+
+## Read more
 
 Qualitative research encompasses an array of data collection methods appropriate for various paradigms and approaches, including (but not limited to) interviews, focus groups, observations (direct or indirect via video), and review of written text, photographs, and other documents or materials. Researchers may choose to use information from multiple sources, contexts, and/or time points depending on their approach and research question(s). (See Item 11 for triangulation.) Given this diversity of methods, authors should describe in detail their data collection design and method(s) and justify them in relation to the research question(s), paradigm, approach, and other methods. Methods used to decide when to end data collection should also be described (see Item 8).
 

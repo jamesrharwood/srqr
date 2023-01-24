@@ -2,7 +2,9 @@
 id: links-to-empirical-data
 title: Links to empirical data
 ---
-**Evidence (e.g., quotes, field notes, text excerpts, photographs) to substantiate analytic findings.**
+Evidence (e.g., quotes, field notes, text excerpts, photographs) to substantiate analytic findings.
+
+## Read more
 
 The authors should provide evidence (e.g., quotes, field notes, text excerpts, photographs) to substantiate the more general and abstract concepts or inferences they present as findings. Such evidence is typically de-identified to protect the privacy of study participants, settings, and/or institutions. The evidence may be presented in a variety of ways such as in a table or figure, incorporated into a narrative description of findings, as a stand-alone narrative, or in text blocks embedded in the manuscript text. If word limits or media limitations (e.g.. video) limit the authors’ ability to provide sufficient representation of supporting data, an appendix, supplemental material, or web-based repository could be used to provide access to additional data.
 

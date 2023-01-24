@@ -2,7 +2,9 @@
 id: data-analysis
 title: Data analysis
 ---
-**Process by which inferences, themes, etc. were identified and developed, including the researchers involved in data analysis; usually references a specific paradigm or approach; rationale.**
+Process by which inferences, themes, etc. were identified and developed, including the researchers involved in data analysis; usually references a specific paradigm or approach.
+
+## Read more
 
 Techniques used for data analysis will depend on the paradigm, approach, and/or data collection methods selected by the researchers. Correspondingly, authors should be as transparent as possible about the analytic process so that readers can follow the logic of inquiry from the research question(s) to the analysis and findings. For example, this description may involve characterizing the processes and decisions made for initial classification or segmentation of data, pattern identification and description, and/or development of in-depth interpretations.1 If the researchers used an approach that has a well-defined process for data analysis (e.g., grounded theory, discourse analysis, phenomenography), the authors should cite the guiding literature and describe their processes in sufficient detail so readers can judge the extent to which the processes align with the guiding approach. If modification to or deviations from the guiding approach occurred, the authors should explain and justify these modifications.
 

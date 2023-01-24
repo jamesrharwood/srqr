@@ -2,7 +2,9 @@
 id: integration-with-prior-work
 title: Integration with prior work, implications, transferability, and contribution(s) to the field
 ---
-**Short summary of main findings, explanation of how findings and conclusions connect to, support, elaborate on, or challenge conclusions of earlier scholarship; discussion of scope of application/generalizability; identification of unique contribution(s) to scholarship in a discipline or field.**
+Short summary of main findings, explanation of how findings and conclusions connect to, support, elaborate on, or challenge conclusions of earlier scholarship; discussion of scope of application/generalizability; identification of unique contribution(s) to scholarship in a discipline or field.
+
+## Read more
 
 The authors should begin the Discussion with a short summary of the main findings. The short summary reminds readers of the main findings and may help them assess whether the subsequent interpretation and implications formulated by the authors are supported by the findings.
 

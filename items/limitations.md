@@ -2,7 +2,9 @@
 id: limitations
 title: Limitations
 ---
-**Trustworthiness and limitations of findings**
+Trustworthiness and limitations of findings
+
+## Read more
 
 Authors should describe techniques used to ensure trustworthiness in the Methods section of the manuscript. In the Discussion, authors should identify problems or gaps in their efforts to ensure trustworthiness and the potential implications. For example, if researchers intended to interview individuals with certain characteristics, or who might offer different perspectives, but were unsuccessful in recruiting any willing participants, they should explain this issue and describe possible consequences for transferability. (See also Item 18.)
 

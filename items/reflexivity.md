@@ -2,7 +2,9 @@
 id: researcher-characteristics-and-reflexivity
 title: Researcher characteristics and reflexivity
 ---
-**Researchers’ characteristics that may influence the research, including personal attributes, qualifications/experience, relationship with participants, assumptions, and/or presuppositions; potential or actual interaction between researchers’ characteristics and the research questions, approach, methods, results and/or transferability.**
+Researchers’ characteristics that may influence the research, including personal attributes, qualifications/experience, relationship with participants, assumptions, and/or presuppositions; potential or actual interaction between researchers’ characteristics and the research questions, approach, methods, results and/or transferability.
+
+## Read more
 
 Reflexivity refers to intentional, systematic consideration of the potential or actual effects of the researcher(s) on all aspects of the study process. In positivist and post-positivist paradigms, personal characteristics and perspectives of researchers might be viewed as biases that limit the credibility of study findings, while in constructivist or interpretivist paradigms the characteristics and perspectives of the researchers are important contextual factors that are an accepted part of the study design, data collection, and data analysis. These characteristics and perspectives may explain how the researcher(s) obtained access to the site or participants included in the study or may add valuable insight during data analysis.
 

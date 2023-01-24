@@ -2,7 +2,9 @@
 id: sampling-strategy
 title: Sampling strategy
 ---
-**How and why research participants, documents, or events were selected; criteria for deciding when no further sampling was necessary (e.g., sampling saturation); rationale.**
+How and why research participants, documents, or events were selected; criteria for deciding when no further sampling was necessary (e.g., sampling saturation); rationale.
+
+## Read more
 
 The authors should describe how and why research participants, documents, and/or events were selected for inclusion in (and, if appropriate, exclusion from) the study, along with a justification for this strategy. We recommend that authors describe the sampling strategy rather than simply labeling the strategy (e.g., "purposive" or "snowball"), since such labels do not have a universally accepted definition and, more importantly, since procedures tend to be study- specific. Several sampling strategies are commonly used in qualitative research, although most fall under the umbrella of purposeful (or purposive) sampling. Purposeful sampling means that participants, documents, or events are selected for their relevance to the research question, based on guiding theory or experiences and assumptions of the researchers. Over the course of the research process, researchers may determine that additional or different participants, documents, or events should be included to address the research question. Other sampling techniques, such as theoretical sampling (seeking examples of theoretical constructs), snowball sampling (using study participants to identify additional participants who meet study criteria), and convenience sampling (including any volunteers with no or minimal criteria for inclusion) may be appropriate depending on the question and approach, so long as the authors provide explanation and justification.
 

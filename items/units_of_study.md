@@ -2,7 +2,9 @@
 id: units-of-study
 title: Units of study
 ---
-**Number and relevant characteristics of participants, documents, or events included in the study; level of participation.**
+Number and relevant characteristics of participants, documents, or events included in the study; level of participation.
+
+## Read more
 
 Authors should describe the participants, documents, or events included in the study (the units of study). The sampling item (Item 8) describes the target or ideal participants, documents, or events selected for the study. By contrast, Item 12 focuses on description of the actual participants, documents or events included in the study. Authors should describe how the actual participants, documents, or events differ from the targeted sample, why these differences may have occurred, and how this might affect the findings.
 
@@ -13,5 +15,5 @@ This information about participants could appear in the Methods section as part 
 ## Example
 
 > Of the 70 Mindful Communication program participants, 46 met the eligibility requirements to participate in the in-depth interviews. We randomly chose and then contacted 22 participants, of whom 20 agreed to be interviewed within six months of completing the program: 15 in person and 5 by telephone. Two declined for lack of time. On reaching saturation after 20 interviews, no further attempts to contact the remaining 24 participants were made.
-> 
+>
 > There were 31 nursing handovers covering 137 patients, and 21 resident handovers covering 101 patients included in this study.

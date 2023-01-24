@@ -2,7 +2,9 @@
 id: trustworthiness
 title: Techniques to enhance trustworthiness
 ---
-**Techniques to enhance trustworthiness and credibility of data analysis,(e.g., member checking, triangulation, audit trail); rationale.**
+Techniques to enhance trustworthiness and credibility of data analysis,(e.g., member checking, triangulation, audit trail); rationale.
+
+## Read more
 
 Authors should describe methods used to ensure trustworthiness and credibility throughout the data collection and analysis process. Such methods will depend on the paradigm, approach, and/or methods used. Correspondingly, the authors should explain their choice of techniques and why these are appropriate for the particular study.
 
@@ -15,8 +17,8 @@ Member checking
 
 Triangulation of data types and data sources
 > The interview data were triangulated with the data of 11 student and supervisor focus groups of a previous study, and more specifically, with those data that concern in particular the influence of CST [Communication Skills Training] on the development of patient-centredness.... Triangulation with the focus group data allowed us to broaden the in-depth information from the interviews in the analysis and to ‘share and compare’ this with information from students and doctors with varying levels of CST (no, limited, full programme) and from two universities (Universities of Antwerp and Ghent). Moreover, this enabled us to better explore the evolution over time, given that the focus groups included participants at different stages of their study: before clerkships (year 4, undergraduate), during clerkships (year 6, undergraduate), after clerkships (year 7, undergraduate) and postgraduate (general practice trainees, and supervising specialists and GPs; Table 1).
-> 
+>
 > Finally, as a test of ‘goodness-of-fit’, we carefully reviewed the videotapes for any ‘deviant’ cases that did not fit the categories we had developed.
- 
+
 Triangulation of Researchers + Audit trail
 > To ensure rigor and increase authenticity in our methodology, we used two kinds of triangulation—investigator triangulation and data triangulation.[REF] We sought analytical rigor using an audit trail and multiple coders; our coding team included an experienced clinician (M.G.) as well as a nonclinician with expertise in medical communication and team dynamics (L.L.).
