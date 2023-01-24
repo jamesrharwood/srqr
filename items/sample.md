@@ -2,8 +2,6 @@
 id: sampling-strategy
 title: Sampling strategy
 ---
-**How and why research participants, documents, or events were selected; criteria for deciding when no further sampling was necessary (e.g., sampling saturation); rationale.**
-
 Describe how and why research participants, documents, and/or events were selected for inclusion in (and, if appropriate, exclusion from) the study, along with a justification for this strategy.
 
 Describe the sampling strategy rather than simply labeling it (e.g., "purposive" or "snowball"), since such labels do not have a universally accepted definition and, more importantly, procedures tend to be study- specific.
