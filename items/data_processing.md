@@ -10,6 +10,8 @@ Authors should describe the processes used to organize, compile, and categorize 
 
 Authors should describe procedures used to maintain data security and protect the privacy of participants, as specified in the human subjects protocols. For example, if data are anonymized, the authors should explain how and at what point in the process this occurred. Authors may choose to use anonymous labels or identifiers to represent quotes or excerpts from unique participants, documents or events, in order to reflect the variety of sources from which such data were derived.
 
+## Why this information is important
+
 ## Examples
 
 > Interviews were anonymised and each participant was given a code number.

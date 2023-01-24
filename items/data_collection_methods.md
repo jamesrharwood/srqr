@@ -13,7 +13,9 @@ Identify the study period.
 
 Describe important characteristics of the individuals conducting interviews, observations or focus groups, and methods used to train these individuals.
 
-**Why:**The study period helps readers place the study in temporal context and identify factors not mentioned by the authors that might affect findings, interpretation, and implications. (See Item 8 for ending data collection.)
+## Why this information is important
+
+The study period helps readers place the study in temporal context and identify factors not mentioned by the authors that might affect findings, interpretation, and implications. (See Item 8 for ending data collection.)
 <!-- #TODO: why is item 8 relevant? -->
 
 Describing researcher characteristics clarifies the relationship between the individuals involved in data collection and the participants in the research and also explains what efforts were made to ensure consistency in the data collection process (See Items 6 and 15.)

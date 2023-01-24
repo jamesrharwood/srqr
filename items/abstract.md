@@ -16,9 +16,10 @@ Use the format of your intended journal; some journals require abstracts to have
 
 In some cases the journal's structured abstract format aligns more with positivist paradigms and quantitative approaches than with qualitative traditions, so translation may be necessary. For example, what might be labelled "findings" in many qualitative research traditions could be reported as "results" in the abstract.
 
-**Why:** A reader should be able to read the abstract independent of the manuscript and get a sense of the background, purpose, methods, main results and implications that will be described in greater detail in the manuscript.
-
 <!-- #TODO: abstracts are indexed by search tools -->
+## Why this information is important
+
+A reader should be able to read the abstract independent of the manuscript and get a sense of the background, purpose, methods, main results and implications that will be described in greater detail in the manuscript.
 
 ## Example
 

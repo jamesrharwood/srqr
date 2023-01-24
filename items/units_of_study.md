@@ -10,6 +10,8 @@ Authors should describe characteristics of the participants, documents or events
 
 This information about participants could appear in the Methods section as part of the description of the sample, or at the beginning of the Results section to provide context for the findings presented.
 
+## Why this information is important
+
 ## Example
 
 > Of the 70 Mindful Communication program participants, 46 met the eligibility requirements to participate in the in-depth interviews. We randomly chose and then contacted 22 participants, of whom 20 agreed to be interviewed within six months of completing the program: 15 in person and 5 by telephone. Two declined for lack of time. On reaching saturation after 20 interviews, no further attempts to contact the remaining 24 participants were made.

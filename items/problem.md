@@ -10,6 +10,7 @@ Describe the theoretical and/or practical issues or concerns that make the study
 * theoretical and/or empirical work directly relevant to the problem or phenomena studied
 * the need for a qualitative approach (e.g., to elucidate poorly defined or previously unexplored constructs, to generate theories or to develop causal explanations connecting processes and outcomes, to understand phenomena as they naturally occur and the role of context, to explore problems involving high complexity, to gain insight into participants’ perspectives when such insight is lacking).
 <!-- #TODO: is point 4 same as 1? -->
+## Why this information is important
 
 ## Example
 

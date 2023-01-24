@@ -21,6 +21,8 @@ Describe procedures used to recruit participants, including:
 * how and when recruitment occurred
 * why these procedures were selected. (See also Item 6)
 
+## Why this information is important
+
 <!-- #TODO: justify why this information is important -->
 
 ## Examples

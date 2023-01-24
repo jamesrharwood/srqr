@@ -14,6 +14,9 @@ During the analysis process, researchers may draw upon a theoretical perspective
 
 Authors should describe which members of the research team are involved in data analysis and what perspective(s) they bring to the analysis. Authors should also indicate if any software was used to assist with data analysis and how it was used (e.g., used to apply codes after the final coding scheme was developed; to extract coded passages for further synthesis and identification of themes; or to identify passages with key words). Simply stating that software was used is insufficient.
 
+## Why this information is important
+
+
 ## Examples
 
 >...we brought sensitizing concepts to the analysis while we conducted an open, inductive analysis.[REF]In this case the sensitizing concepts arose, a priori to analysis, from a framework derived from the literature [REF] (as described above), in which participants’ motivations to act are based on principles of professionalism, internal affect, or potential implications of their actions.[REF]

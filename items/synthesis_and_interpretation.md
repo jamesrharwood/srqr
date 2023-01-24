@@ -12,6 +12,9 @@ In most cases, the authors should report a synthesis of their data along with sp
 
 Findings might also include integration with prior literature or theory and/or the development of a theory, model or meta-narrative. Judicious use of tables and figures can help communicate such findings.
 
+## Why this information is important
+
+
 ## Examples
 
 > We identified four patterns of NVB (non-verbal behavior) that relate to handover quality and have dubbed them: (1) joint focus of attention; (2) ‘the poker hand’; (3) parallel play; and (4) kerbside consultation. Each pattern constitutes a ‘transfix,’ or systematic way of participating non-verbally in the care transfer process. And, although there are variations in each pattern, we have been able to code virtually every handover we have observed in nursing, medicine and surgery into one of these four categories.

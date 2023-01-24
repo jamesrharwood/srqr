@@ -13,8 +13,9 @@ Describe procedures used to protect participants, including:
 If you provided compensation or offered incentives to facilitate participation, report this too.
 
 <!-- #TODO: null case - not required, not done -->
+## Why this information is important
 
-**Why:**Qualitative research often involves interaction between researchers and research participants. Correspondingly, researchers should ensure that participants are fully aware of their participation in a research study, the risks and benefits associated with the study, the steps and precautions the researchers will take to minimize risks, such as loss of privacy and confidentiality, and how the researchers plan to use the data.
+Qualitative research often involves interaction between researchers and research participants. Correspondingly, researchers should ensure that participants are fully aware of their participation in a research study, the risks and benefits associated with the study, the steps and precautions the researchers will take to minimize risks, such as loss of privacy and confidentiality, and how the researchers plan to use the data.
 
 <!-- #TODO: Why? doesn't justify why a reader needs this info. Journal requirement? -->
 

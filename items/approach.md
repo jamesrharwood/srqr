@@ -3,13 +3,13 @@ id: qualitative-approach
 title: Qualitative approach and research paradigm
 ---
 Describe your qualitative approach (e.g., ethnography, grounded theory, case study, phenomenology, narrative research), your guiding theory (if appropriate), and identify the research paradigm (e.g., post-positivist, constructivist/interpretivist). Explain why the selected approach is appropriate for the research question, and provide references to theories or traditions that guide the use of the approach as needed.
+<!-- #TODO: null case -->
 
-**Why:** Identifying the research paradigm helps readers understand whether the researcher assumes that there is a single, objective reality (positivist or post-positivist) and has thus designed the study to describe this reality or whether the researcher assumes multiple, subjective realities and designed the study to describe these multiple realities, with no attempt to merge or reconcile these realities (constructivist/interpretivist). The paradigm has implications for the study design, approach, methods, and techniques to ensure rigour and trustworthiness.
+## Why this information is important
+
+Identifying the research paradigm helps readers understand whether the researcher assumes that there is a single, objective reality (positivist or post-positivist) and has thus designed the study to describe this reality or whether the researcher assumes multiple, subjective realities and designed the study to describe these multiple realities, with no attempt to merge or reconcile these realities (constructivist/interpretivist). The paradigm has implications for the study design, approach, methods, and techniques to ensure rigour and trustworthiness.
 
 Qualitative research includes an array of approaches and methodologies, both general (e.g., qualitative content analysis, general inductive approach) and specific (e.g., ethnography, grounded theory, phenomenography). Since the research paradigm does not necessarily dictate particular approaches or methods, the approach should also be clearly defined. Stating the approach provides readers the opportunity to evaluate the fidelity of the research approach to the research question(s) and consider the rationale for modifications and deviations from the selected approach. Qualitative research also includes an array of methods that can be used across paradigms and approaches. (See also Item 10).
-
-<!-- #TODO: null case -->
-<!-- #TODO: This is long/ Would be nice to have shorter version.  -->
 
 ## Examples
 
