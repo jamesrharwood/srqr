@@ -4,3 +4,8 @@ pagetitle: The SRQR guidelines for writing qualitative research articles
 css: 
   - ../../css/styles.css
   - ../../css/index.css
+format:
+  html:
+    toc: true
+    toc-location: right
+    toc-depth: 3

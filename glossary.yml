@@ -4,7 +4,7 @@ research paradigm: |
   The research paradigm is the set of beliefs and assumptions that guide the research process. These commonly include positivist, post-positivist, constructivist or interpretivist, and critical theory. Qualitative research generally draws from a post-positivist or constructivist/interpretivist paradigm."
 instruments: "Data collection instruments include (but are not limited to) interview or focus group guides, observational protocols and prompts for field notes, and data extraction or coding protocols for selection and analysis of documents, photographs, videos, or other artifacts"
 sampling strategy: Several sampling strategies are commonly used in qualitative research, although most fall under the umbrella of purposeful (or purposive) sampling. Purposeful sampling means that participants, documents, or events are selected for their relevance to the research question, based on guiding theory or experiences and assumptions of the researchers. Over the course of the research process, researchers may determine that additional or different participants, documents, or events should be included to address the research question. Other sampling techniques, such as theoretical sampling (seeking examples of theoretical constructs), snowball sampling (using study participants to identify additional participants who meet study criteria), and convenience sampling (including any volunteers with no or minimal criteria for inclusion) may be appropriate depending on the question and approach, so long as the authors provide explanation and justification.
-#TODO: implicit judgement about sampling strategy. "May be appropriate...so long as authors provide explanation and justification"
+#TODO implicit judgement about sampling strategy. "May be appropriate...so long as authors provide explanation and justification"
 data collection methods: Qualitative research encompasses an array of data collection methods appropriate for various paradigms and approaches, including (but not limited to) interviews, focus groups, observations (direct or indirect via video), and review of written text, photographs, and other documents or materials. Researchers may choose to use information from multiple sources, contexts, and/or time points depending on their approach and research question(s). (See Item 11 for triangulation.) 
 iterative: Qualitative research often occurs as an iterative process, meaning that researchers begin data analysis before they complete data collection. The data collection and analysis process may occur in phases or stages. As part of an iterative collection-analysis process, researchers will often alter their data collection methods to explore their preliminary impressions in greater depth and/or actively pursue confirming and disconfirming perspectives. 
 study period: The start and end dates for data collection and analysis.
@@ -16,10 +16,12 @@ grounded theory: |
   A method consisting of a set of systematic, but flexible, guidelines for conducting inductive qualitative inquiry aimed toward theory construction. This method focuses squarely on the analytic phases of research, although both data collection and analysis inform and shape each other and are conducted in tandem.
 
   [Read more](https://methods.sagepub.com/reference/sage-encyc-qualitative-research-methods/n189.xml)
-
-general inductive: |
-
-
+degree of participation: |
+  For example, if some participants were observed and interviewed and others only interviewed, or if some participants completed multiple interviews and others completed a single interview, these variations should be explained. 
+unit of analysis: |
+  In qualitative research, the unit of analysis is not necessarily the same as the unit of sampling (e.g., individual participants or events). Instead, some approaches use specific events as the unit of analysis, such as mentions of a particular topic or experience, or observations of a particular behavior or phenomenon, while others use groups rather than individual group participants. This specification has implications for how the data are organized and analyzed as well as the inferences drawn from the data.
+reflexivity: |
+  Reflexivity refers to intentional, systematic consideration of the potential or actual effects of the researcher(s) on all aspects of the study process. 
 # approach or perspective
 # context
 # setting

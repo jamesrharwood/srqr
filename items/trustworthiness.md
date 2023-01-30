@@ -4,12 +4,15 @@ title: Techniques to enhance trustworthiness
 ---
 **Techniques to enhance trustworthiness and credibility of data analysis,(e.g., member checking, triangulation, audit trail); rationale.**
 
-Authors should describe methods used to ensure trustworthiness and credibility throughout the data collection and analysis process. Such methods will depend on the paradigm, approach, and/or methods used. Correspondingly, the authors should explain their choice of techniques and why these are appropriate for the particular study.
+Describe methods used to ensure trustworthiness and credibility throughout the data collection and analysis process.
 
-Commonly used techniques to enhance trustworthiness include: member checking; triangulation of data sources, methods, and/or researchers; creation of an explicit audit trail; and immersion in the site of data collection for an extended period of time (especially for research in which an observer's presence is likely to disrupt the phenomenon under investigation). Member checking involves sharing findings, such as descriptions of key phenomena, themes, or an explanatory model, with participants and asking them to verify the accuracy or resonance with their perspectives. Triangulation involves using more than one data source, method, or researcher to add diverse perspectives on the findings of the study and, in some approaches, to test the transferability or generalizability of a model. An audit trail involves careful documentation of all decisions made throughout the study, from initial conceptualization to study design, sampling, analysis, and reporting, to provide transparency and to enable an external researcher to review all the steps involved in the study.
+Explain your choice of techniques and why these are appropriate for the particular study. (See _Read more_ for commonly used techniques).
+
+## Commonly used techniques
+
+Techniques to enhance trustworthiness will depend on the paradigm, approach, and/or methods used. Commonly used techniques include: member checking; triangulation of data sources, methods, and/or researchers; creation of an explicit audit trail; and immersion in the site of data collection for an extended period of time (especially for research in which an observer's presence is likely to disrupt the phenomenon under investigation). Member checking involves sharing findings, such as descriptions of key phenomena, themes, or an explanatory model, with participants and asking them to verify the accuracy or resonance with their perspectives. Triangulation involves using more than one data source, method, or researcher to add diverse perspectives on the findings of the study and, in some approaches, to test the transferability or generalizability of a model. An audit trail involves careful documentation of all decisions made throughout the study, from initial conceptualization to study design, sampling, analysis, and reporting, to provide transparency and to enable an external researcher to review all the steps involved in the study.
 
 ## Why this information is important
-
 
 ## Examples
 

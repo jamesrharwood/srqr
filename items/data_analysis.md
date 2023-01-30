@@ -2,20 +2,35 @@
 id: data-analysis
 title: Data analysis
 ---
-**Process by which inferences, themes, etc. were identified and developed, including the researchers involved in data analysis; usually references a specific paradigm or approach; rationale.**
+Describe your analytic process as transparently as possible^1^. [1. E.g., characterize the processes and decisions made for initial classification or segmentation of data, pattern identification and description, and/or development of in-depth interpretations.]{.aside}
 
-Techniques used for data analysis will depend on the paradigm, approach, and/or data collection methods selected by the researchers. Correspondingly, authors should be as transparent as possible about the analytic process so that readers can follow the logic of inquiry from the research question(s) to the analysis and findings. For example, this description may involve characterizing the processes and decisions made for initial classification or segmentation of data, pattern identification and description, and/or development of in-depth interpretations.1 If the researchers used an approach that has a well-defined process for data analysis (e.g., grounded theory, discourse analysis, phenomenography), the authors should cite the guiding literature and describe their processes in sufficient detail so readers can judge the extent to which the processes align with the guiding approach. If modification to or deviations from the guiding approach occurred, the authors should explain and justify these modifications.
+If you used an approach that has a well-defined process for data analysis (e.g., grounded theory, discourse analysis, phenomenography):
 
-Authors should specify the unit of analysis.1 In qualitative research, the unit of analysis is not necessarily the same as the unit of sampling (e.g., individual participants or events). Instead, some approaches use specific events as the unit of analysis, such as mentions of a particular topic or experience, or observations of a particular behavior or phenomenon, while others use groups rather than individual group participants. This specification has implications for how the data are organized and analyzed as well as the inferences drawn from the data.
+* cite the guiding literature
+* describe your processes in sufficient detail so readers can judge the extent to which your processes align with the guiding approach.
+* If you modified or deviated from the guiding approach, explain and justify these modifications.
 
-Authors should explain the rationale underlying different decisions made throughout the data analysis process to provide as much transparency as possible. In some approaches researchers use memoing or bracketing to make their reflections, interpretations, and links among passages explicit and more transparent to others. In some types of analysis, participants’ perspectives or observations that contrast or deviate from the concepts or themes identified by the researchers are an important part of the analysis. In such cases, the authors must describe how these discrepancies were handled during the analysis.
+Specify the unit of analysis.
 
-During the analysis process, researchers may draw upon a theoretical perspective or framework, which may have been identified early in the conception of the study or may be identified by the researchers after reviewing some or all of their data. Either way, the authors should describe theoretical or other influences on their analysis scheme or categories if they exist. Sometimes these are referred to as “sensitizing concepts” to acknowledge that the approach is inductive, but with influence from relevant theory, models, or organizational schemes. Alternatively, themes may be developed from the data with no external influences.
+Explain the rationale underlying different decisions made throughout the data analysis process to provide as much transparency as possible.^2^ [2. In some approaches researchers use memoing or bracketing to make their reflections, interpretations, and links among passages explicit and more transparent to others.]{.aside}
 
-Authors should describe which members of the research team are involved in data analysis and what perspective(s) they bring to the analysis. Authors should also indicate if any software was used to assist with data analysis and how it was used (e.g., used to apply codes after the final coding scheme was developed; to extract coded passages for further synthesis and identification of themes; or to identify passages with key words). Simply stating that software was used is insufficient.
+If observations that contrast or deviate from identified concepts or themes were important to your analysis, describe how these discrepancies were handled during the analysis.
+
+If you drew upon a theoretical perspective or framework during analysis, describe theoretical or other influences on your analysis scheme or categories if they exist.^3^ [3. If you identified a theoretical perspective or framework early in the conception of the study or after reviewing some or all of their data, consider referring to these as “sensitizing concepts” to acknowledge that the approach is inductive, but with influence from relevant theory, models, or organizational schemes. Alternatively, explain that themes were developed from the data with no external influences.]{.aside}
+
+Describe which members of the research team are involved in data analysis and what perspective(s) they bring to the analysis.
+
+Indicate if any software was used to assist with data analysis and _how_ it was used (e.g., used to apply codes after the final coding scheme was developed; to extract coded passages for further synthesis and identification of themes; or to identify passages with key words). Simply stating that software was used is insufficient.
+
+## Notes
+
+1. During the analysis process, researchers may draw upon a theoretical perspective or framework, which may have been identified early in the conception of the study or may be identified by the researchers after reviewing some or all of their data. Sometimes these are referred to as “sensitizing concepts” to acknowledge that the approach is inductive, but with influence from relevant theory, models, or organizational schemes. Alternatively, themes may be developed from the data with no external influences.
 
 ## Why this information is important
 
+Techniques used for data analysis will depend on the paradigm, approach, and/or data collection methods selected by the researchers. Correspondingly, authors should be as transparent as possible about the analytic process so that readers can follow the logic of inquiry from the research question(s) to the analysis and findings.
+
+In qualitative research, the unit of analysis is not necessarily the same as the unit of sampling (e.g., individual participants or events). Instead, some approaches use specific events as the unit of analysis, such as mentions of a particular topic or experience, or observations of a particular behavior or phenomenon, while others use groups rather than individual group participants. This specification has implications for how the data are organized and analyzed as well as the inferences drawn from the data.
 
 ## Examples
 
