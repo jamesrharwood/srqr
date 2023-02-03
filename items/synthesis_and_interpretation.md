@@ -2,18 +2,28 @@
 id: synthesis-and-interpretation
 title: Synthesis and interpretation
 ---
-**Main findings (e.g., interpretations, inferences, and themes); might include development of a theory or model, or integration with prior research or theory.**
+Describe the main analytic findings. (See [Note 1](.))
 
-In qualitative research the distinction between results and discussion tends to blur because analysis often involves interpretation, inference, and synthesis. Although most journals require separate sections for Results and Discussion, many elements of Items 16-19 could reasonably be reported in either section. As such, we defer to authors and editors to determine where to report these essential elements.
+In most cases, report a synthesis of the data along with specific quotes, examples, or illustrations derived from the data.
+<!-- #ASK: is this same as links to empirical data? -->
 
-Authors should identify the main analytic findings (e.g., interpretations, inferences, narratives, themes, models). The nature of these findings and how they are reported will depend on the approach and methodology selected and thus should be in alignment with the approach and methods.
+Consider describing frequency, variety, representativeness, counter-examples, concrete details, contextualization, conditions, and qualifications related to the findings.
 
-In most cases, the authors should report a synthesis of their data along with specific quotes, examples, or illustrations derived from their data. Authors might also report frequency, variety, representativeness, counter-examples, concrete details, contextualization, conditions, and qualifications related to their findings. Frequency counts (e.g., the frequency of specific themes or codes) play a limited role in qualitative research, and need not be reported unless they play a meaningful role in interpretation of the data.
+Frequency counts play a limited role in qualitative research, and need not be reported unless they play a meaningful role in interpretation of the data.
+<!-- #ASK: clarify describing frequency "most, some etc", vs frequency counts? -->
 
-Findings might also include integration with prior literature or theory and/or the development of a theory, model or meta-narrative. Judicious use of tables and figures can help communicate such findings.
+<!-- #ASK: not sure about this statement: Findings might also include integration with prior literature or theory and/or the development of a theory, model or meta-narrative. Judicious use of tables and figures can help communicate such findings. -->
+
+If your findings include integration with prior literature or theory and/or the development of a theory, model or meta-narrative, consider using tables and figures to communicate these findings.
+
+Items 16-19 can be reported in Results or Discussion sections. (See [Note 2](.))
+
+## Notes
+
+1. The nature of these findings and how they are reported will depend on the approach and methodology selected and thus should be in alignment with the approach and methods.
+2. In qualitative research the distinction between results and discussion tends to blur because analysis often involves interpretation, inference, and synthesis. Although most journals require separate sections for Results and Discussion, many elements of Items 16-19 could reasonably be reported in either section. As such, we defer to authors and editors to determine where to report these essential elements.
 
 ## Why this information is important
-
 
 ## Examples
 

@@ -2,7 +2,9 @@
 id: title
 title: Title
 ---
-Describe the nature and topic of the study. Identify the study as qualitative or indicate the approach (e.g., ethnography, grounded theory) or data collection methods (e.g., interview, focus group).
+Describe the nature and topic of the study.
+
+Identify the study as qualitative or indicate the approach or data collection methods.
 
 ## Why this information is important
 

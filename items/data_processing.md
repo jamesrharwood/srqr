@@ -2,13 +2,13 @@
 id: data-processing
 title: Data processing
 ---
-Describe the ways in which data are prepared for analysis and managed throughout the analysis process. These activities might include transcription, coding, data entry, and organization of data. (See [_Read more_](.) for details relevant to audio or visual recordings).
+Describe the ways in which data are prepared for analysis and managed throughout the analysis process. These activities might include transcription, coding, data entry, and organization of data. (See [Read more](.) for details relevant to audio or visual recordings).
 
 Describe the processes used to organize, compile, and categorize data (e.g., field notes, transcripts, documents, photographs, artifacts) for analysis.
 
 If you used transcripts, describe procedures used to check accuracy.
 
-Describe procedures used to maintain data security and protect the privacy of participants, as specified in the human subjects protocols (see [_Read more_](.) for _Anonymisation_ as an example).
+Describe procedures used to maintain data security and protect the privacy of participants, as specified in the human subjects protocols (see [Read more](.) for Anonymisation as an example).
 
 ## Relevant details when processing audio or visual recordings
 

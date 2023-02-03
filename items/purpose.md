@@ -2,7 +2,11 @@
 id: purpose
 title: Purpose or research question
 ---
-Include a statement of study intent. This can be framed as one or more research questions, purposes, goals, or objectives. Qualitative studies often explore “how” and “why” questions related to a social or human problems or phenomenon, and they are designed to enhance readers’ understanding of a problem or phenomenon.
+Include a statement of study intent. This can be framed as one or more research questions, purposes, goals, or objectives.^1^
+
+## Notes
+
+Qualitative studies often explore “how” and “why” questions related to a social or human problems or phenomenon, and they are designed to enhance readers’ understanding of a problem or phenomenon.
 
 ## Why this information is important
 

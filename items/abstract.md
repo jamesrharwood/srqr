@@ -10,11 +10,14 @@ Summarise key elements of the study including:
 * Description of main findings (e.g., themes or inferences) related to the study purpose and/or research question
 * Study implications
 
+<!-- #ASK
+What is the difference between approach and perspective?
+Is approach the same as qualitative approach?
+Are data collection strategies the same as data collection methods? -->
+
 Information presented in the abstract should be consistent with the information presented in the full text.
 
-Use the format of your intended journal; some journals require abstracts to have subheadings, others don't.
-
-In some cases the journal's structured abstract format aligns more with positivist paradigms and quantitative approaches than with qualitative traditions, so translation may be necessary. For example, what might be labelled "findings" in many qualitative research traditions could be reported as "results" in the abstract.
+Use the format of your intended journal. Some journals require abstracts to have subheadings, others don't. In some cases the journal's structured abstract format aligns more with positivist paradigms and quantitative approaches than with qualitative traditions, so translation may be necessary. For example, what might be labelled "findings" in many qualitative research traditions could be reported as "results" in the abstract.
 
 <!-- #TODO: abstracts are indexed by search tools -->
 ## Why this information is important

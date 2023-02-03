@@ -2,7 +2,11 @@
 id: qualitative-approach
 title: Qualitative approach and research paradigm
 ---
-Describe your qualitative approach (e.g., ethnography, grounded theory, case study, phenomenology, narrative research), your guiding theory (if appropriate), and identify the research paradigm (e.g., post-positivist, constructivist/interpretivist). Explain why the selected approach is appropriate for the research question, and provide references to theories or traditions that guide the use of the approach as needed.
+Describe your qualitative approach, your guiding theory (if appropriate), and identify the research paradigm.
+
+Explain why the selected approach is appropriate for the research question.
+
+Provide references to theories or traditions that guide the use of the approach as needed.
 <!-- #TODO: null case -->
 
 ## Why this information is important

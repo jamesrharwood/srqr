@@ -1,8 +1,6 @@
-Use this guidance for reporting qualitative research studies.
+Use this guidance for writing qualitative research articles. It is a general guideline that can be used to describe research that involves any qualitative methods, any kind of qualitative data, and uses any kind of approach, epistemology, or ontology.
 
 <!-- [#TODO: All ontologies and epistemologies?]{.todo} -->
-The SRQR items reflect information essential for inclusion in a qualitative research report, but should not be viewed as prescribing a rigid format or standardized content. Consider each item and prioritize elements that are most relevant to your study, findings, context, and readership.
-
 You can also use this guideline for:
 
 * writing protocols (use the items within the Introduction and Method sections).

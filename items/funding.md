@@ -2,8 +2,11 @@
 id: funding
 title: Funding
 ---
-**Sources of funding and other support; role of funders in data collection, interpretation, and reporting.**
 
-The authors should describe any sources of funding and other support for the study and the role of funders in data collection, data analysis, and reporting if applicable.
+Describe any sources of funding and other support for the study.
+
+Describe the role of funders in data collection, data analysis, and reporting if applicable.
 
 ## Why this information is important
+
+<!-- #TODO -->
