@@ -7,6 +7,6 @@ Similar reporting guidelines:
 
 * [#TODO](https://www.google.com){.todo} -->
 
-For **appraising** research consider:
+For appraising research consider:
 
 * [CASP-Qual](https://www.google.com)
