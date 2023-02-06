@@ -2,18 +2,21 @@
 id: researcher-characteristics-and-reflexivity
 title: Researcher characteristics and reflexivity
 ---
-Describe personal characteristics and perspectives of members of the research team that may influence design, data collection, and data analysis.^[1](.)^
+Describe personal characteristics and perspectives of members of the research team that may influence design, data collection, and data analysis.^[Note 1](.)^
 
-Describe the researchers’ relationships to participants in the study and what decisions were made in light of these relationships.^[2](.)^
+Describe the researchers’ relationships to participants in the study and what decisions were made in light of these relationships.^[Note 2](.)^
 
 If your research was observational (e.g., ethnography), describe the role of the researcher along a spectrum from passive observer (no involvement in the activity studied) to participant-observer (ranging from some limited involvement in the activity to full involvement).
 
-There is no expectation that the study could be precisely replicated; these characteristics and perspectives of the researcher should not be mentioned in the limitation section. (See also Item 14.)
+There is no expectation that the study could be precisely replicated; these characteristics and perspectives of the researcher should not be mentioned in the limitation section. (See also [Item 14: Data Analysis](#data-analysis))
 
-## Notes
+## Note 1
 
-1. Relevant personal characteristics might include cultural background, occupation, experience, training, position/ power dynamics, gender, race/ethnicity, and sponsoring institution. Authors should also describe the perspectives, assumptions, prior knowledge, preliminary hypotheses, and/or motives (the "stance") of the members of the research team.
-2. For example, were any members of the research team part of the sample of potential participants in the study? Do any members of the team teach, supervise, or have any authority over participants in the study? If so, how do these characteristics influence choices about their roles in data collection and analysis? 
+Relevant personal characteristics might include cultural background, occupation, experience, training, position/ power dynamics, gender, race/ethnicity, and sponsoring institution. Authors should also describe the perspectives, assumptions, prior knowledge, preliminary hypotheses, and/or motives (the "stance") of the members of the research team.
+
+## Note 2
+
+For example, were any members of the research team part of the sample of potential participants in the study? Do any members of the team teach, supervise, or have any authority over participants in the study? If so, how do these characteristics influence choices about their roles in data collection and analysis? 
 
 ## Why this information is important
 

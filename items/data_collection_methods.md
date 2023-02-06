@@ -2,7 +2,7 @@
 id: data-collection-methods
 title: Data collection methods
 ---
-Describe data collection methods and design in detail, and justify them in relation to the research question(s), paradigm, approach, and other methods.^1^
+Describe data collection methods and design in detail, and justify them in relation to the research question(s), paradigm, approach, and other methods.^[Note 1](.)^
 <!-- #TODO is triangulation a requirement, or part of definition of data collection methods? Isn't it in item 11 again? -->
 If data collection and analysis was iterative:
 
@@ -13,9 +13,9 @@ Identify the study period.
 
 Describe important characteristics of the individuals conducting interviews, observations or focus groups, and methods used to train these individuals.
 
-## Notes
+## Note 1
 
-1. Researchers may choose to use information from multiple sources, contexts, and/or time points depending on their approach and research question(s). (See Item 11 for triangulation.)
+Researchers may choose to use information from multiple sources, contexts, and/or time points depending on their approach and research question(s). (See [Item 11](./#data-collection-instruments-and-technologies) for triangulation.)
 
 ## Why this information is important
 

@@ -2,7 +2,7 @@
 id: links-to-empirical-data
 title: Links to empirical data
 ---
-The authors should provide evidence^1^ [1. e.g., quotes, field notes, text excerpts, photographs]{.aside} to substantiate the more general and abstract concepts or inferences they present as findings. (See also [De-identification](.)).
+The authors should provide evidence (e.g., quotes, field notes, text excerpts, photographs) to substantiate the more general and abstract concepts or inferences they present as findings. (See also [De-identification](.)).
 
 You could report this evidence in a table or figure, incorporated into a narrative description of findings, as a stand-alone narrative, or in text blocks embedded in the manuscript text. If you are constrained by word limits or media limitations (e.g.. video), consider sharing data via  an appendix, supplemental material, or web-based repository.
 

@@ -19,7 +19,7 @@ Describe procedures used to recruit participants, including:
 * who was involved in recruitment
 * what their relationship was to participants
 * how and when recruitment occurred
-* why these procedures were selected. (See also Item 6)
+* why these procedures were selected. (See also [Item 6: Researcher characteristics and reflexivity](./#researcher-characteristics-and-reflexivity))
 
 ## Why this information is important
 

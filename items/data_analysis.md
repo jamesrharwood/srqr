@@ -24,7 +24,7 @@ Indicate if any software was used to assist with data analysis and _how_ it was 
 
 ## Notes
 
-1. During the analysis process, researchers may draw upon a theoretical perspective or framework, which may have been identified early in the conception of the study or may be identified by the researchers after reviewing some or all of their data. Sometimes these are referred to as “sensitizing concepts” to acknowledge that the approach is inductive, but with influence from relevant theory, models, or organizational schemes. Alternatively, themes may be developed from the data with no external influences.
+During the analysis process, researchers may draw upon a theoretical perspective or framework, which may have been identified early in the conception of the study or may be identified by the researchers after reviewing some or all of their data. Sometimes these are referred to as “sensitizing concepts” to acknowledge that the approach is inductive, but with influence from relevant theory, models, or organizational schemes. Alternatively, themes may be developed from the data with no external influences.
 
 ## Why this information is important
 

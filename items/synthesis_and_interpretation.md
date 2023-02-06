@@ -18,10 +18,13 @@ If your findings include integration with prior literature or theory and/or the 
 
 Items 16-19 can be reported in Results or Discussion sections. (See [Note 2](.))
 
-## Notes
+### Note 1
 
-1. The nature of these findings and how they are reported will depend on the approach and methodology selected and thus should be in alignment with the approach and methods.
-2. In qualitative research the distinction between results and discussion tends to blur because analysis often involves interpretation, inference, and synthesis. Although most journals require separate sections for Results and Discussion, many elements of Items 16-19 could reasonably be reported in either section. As such, we defer to authors and editors to determine where to report these essential elements.
+The nature of these findings and how they are reported will depend on the approach and methodology selected and thus should be in alignment with the approach and methods.
+
+### Note 2
+
+In qualitative research the distinction between results and discussion tends to blur because analysis often involves interpretation, inference, and synthesis. Although most journals require separate sections for Results and Discussion, many elements of Items 16-19 could reasonably be reported in either section. As such, we defer to authors and editors to determine where to report these essential elements.
 
 ## Why this information is important
 
