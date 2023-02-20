@@ -17,7 +17,7 @@ Describe important characteristics of the individuals conducting interviews, obs
 
 Researchers may choose to use information from multiple sources, contexts, and/or time points depending on their approach and research question(s). (See [Item 11](./#data-collection-instruments-and-technologies) for triangulation.)
 
-## Why this information is important
+## Why readers need this information
 
 The study period helps readers place the study in temporal context and identify factors not mentioned by the authors that might affect findings, interpretation, and implications. (See Item 8 for ending data collection.)
 <!-- #TODO: why is item 8 relevant? -->

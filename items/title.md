@@ -6,7 +6,7 @@ Describe the nature and topic of the study.
 
 Identify the study as qualitative or indicate the approach or data collection methods.
 
-## Why this information is important
+## Why readers need this information
 
 This allows readers, reviewers, and search tools to quickly identify the type of study.
 

@@ -17,7 +17,7 @@ Whereas you should describe techniques used to ensure trustworthiness in the Met
 
 All research paradigms and approaches have strengths and weaknesses.
 
-## Why this information is important
+## Why readers need this information
 
 ## Example
 

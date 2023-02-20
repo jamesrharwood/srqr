@@ -21,7 +21,7 @@ Describe procedures used to recruit participants, including:
 * how and when recruitment occurred
 * why these procedures were selected. (See also [Item 6: Researcher characteristics and reflexivity](./#researcher-characteristics-and-reflexivity))
 
-## Why this information is important
+## Why readers need this information
 
 <!-- #TODO: justify why this information is important -->
 

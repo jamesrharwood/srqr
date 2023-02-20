@@ -10,7 +10,7 @@ You could report this evidence in a table or figure, incorporated into a narrati
 
 Evidence is typically de-identified to protect the privacy of study participants, settings, and/or institutions.
 
-## Why this information is important
+## Why readers need this information
 
 <!-- #TODO -->
 

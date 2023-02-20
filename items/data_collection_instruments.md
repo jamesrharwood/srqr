@@ -6,7 +6,7 @@ Describe all data collection instruments, including their development, and [if/h
 
 Describe the use of equipment for audio or video recording, reproduction of paper documents or computer files, or other processes in data collection.
 
-## Why this information is important
+## Why readers need this information
 
 Describing equipment helps readers understand the full context in which data collection occurred and how this context might have affected data collection (e.g., the influence of recording devices on participants' behaviors; the nature of inferences drawn from live vs. recorded events).
 <!-- #TODO justify why instruments must be described. -->

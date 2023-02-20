@@ -14,3 +14,4 @@ Some aspects may be mentioned as part of reflexivity (see [Item 6](./#researcher
 <!-- #TODO ## Why this information is important -->
 
 <!-- #TODO: examples  -->
+## Why readers need this information

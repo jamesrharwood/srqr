@@ -1,4 +1,4 @@
-Similar reporting guidelines:
+Related reporting guidelines:
 
 * [JARS Qual](https://apastyle.apa.org/jars/qualitative) for writing qualitative, psychology manuscripts
 * [ENTREQ](https://www.equator-network.org/reporting-guidelines/entreq/) for writing qualitative evidence syntheses

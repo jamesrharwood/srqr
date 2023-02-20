@@ -18,7 +18,7 @@ Details might include indication of verbatim transcription of dialogue, addition
 
 If data are anonymized, the authors should explain how and at what point in the process this occurred. Authors may choose to use anonymous labels or identifiers to represent quotes or excerpts from unique participants, documents or events, in order to reflect the variety of sources from which such data were derived.
 
-## Why this information is important
+## Why readers need this information
 
 ## Examples
 

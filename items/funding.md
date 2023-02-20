@@ -7,6 +7,6 @@ Describe any sources of funding and other support for the study.
 
 Describe the role of funders in data collection, data analysis, and reporting if applicable.
 
-## Why this information is important
+## Why readers need this information
 
 <!-- #TODO -->

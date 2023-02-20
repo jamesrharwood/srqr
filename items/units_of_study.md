@@ -26,6 +26,8 @@ This information could appear in the Methods section as part of the description 
 
 The sampling item (Item 8) describes the target or ideal participants, documents, or events selected for the study. By contrast, this item focuses on description of the actual participants, documents or events included in the study.
 
+## Why readers need this information
+
 ## Relevant characteristics
 
 For participants, characteristics might include age, gender, profession, institution, year of training, or relationship to the researcher and/or other participants in the study. For documents, this might include the source, intended audience, date, or type of document.

@@ -9,7 +9,7 @@ Explain why the selected approach is appropriate for the research question.
 Provide references to theories or traditions that guide the use of the approach as needed.
 <!-- #TODO: null case -->
 
-## Why this information is important
+## Why readers need this information
 
 Identifying the research paradigm helps readers understand whether the researcher assumes that there is a single, objective reality (positivist or post-positivist) and has thus designed the study to describe this reality or whether the researcher assumes multiple, subjective realities and designed the study to describe these multiple realities, with no attempt to merge or reconcile these realities (constructivist/interpretivist). The paradigm has implications for the study design, approach, methods, and techniques to ensure rigour and trustworthiness.
 

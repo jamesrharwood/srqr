@@ -26,7 +26,7 @@ The nature of these findings and how they are reported will depend on the approa
 
 In qualitative research the distinction between results and discussion tends to blur because analysis often involves interpretation, inference, and synthesis. Although most journals require separate sections for Results and Discussion, many elements of Items 16-19 could reasonably be reported in either section. As such, we defer to authors and editors to determine where to report these essential elements.
 
-## Why this information is important
+## Why readers need this information
 
 ## Examples
 

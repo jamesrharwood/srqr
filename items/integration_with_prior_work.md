@@ -13,7 +13,7 @@ Describe ay implications of the work, such transferability or generalizability.
 
 The discussion provides authors an opportunity to elaborate on their findings in relation to their research question(s) and study purpose(s); connect their findings to prior empirical work, theories, and/or frameworks; and discuss implications.
 
-## Why this information is important
+## Why readers need this information
 
 The short summary reminds readers of the main findings and may help them assess whether the subsequent interpretation and implications formulated by the authors are supported by the findings.
 
