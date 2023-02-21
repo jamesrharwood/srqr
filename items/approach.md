@@ -20,3 +20,14 @@ Qualitative research includes an array of approaches and methodologies, both gen
 > The study was performed from a constructivist point of view using an interpretative phenomenological epistemology. Based on the notion that social phenomena are constructed by the communal making of meaning about the underlying phenomena, we aimed to construct insightful accounts of lead consultants’ approaches to educational change, rather than to identify the ‘true’ nature of these approaches. Because the management of change by lead consultants is an under-researched area, we conducted an exploratory qualitative study...
 
 > Given the relative dearth of explanatory theories about factors affecting medical students’ emotional reactions, we chose to develop one by applying methods associated with grounded theory, specifically constant comparative analysis, to qualitative data obtained from learning logs and interviews. Our approach was constructivist, deliberately using researchers’ own experiences and acquired knowledge to enhance theoretical sensitivity and enrich theory development.
+
+## Training
+
+Mollit [nulla voluptate](.) aute irure.
+Cillum excepteur [incididunt culpa](.) elit.
+In non [labore ut magna](.) mollit amet ad voluptate tempor mollit culpa.
+
+## Design advice
+
+Deserunt [veniam elit](.) dolor eiusmod mollit enim nisi.
+Sit excepteur [culpa in nulla Lorem](.) consequat aliquip quis ut.

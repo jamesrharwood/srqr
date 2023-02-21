@@ -11,3 +11,14 @@ By clearly stating the purpose of the study, authors set readers’ expectations
 ## Example
 
 > The purposes of this study were to investigate how medical students recognize, respond to and utilise feedback, and to determine whether there are maturational differences in understandings of the role of feedback across academic years in medical school.
+
+## Training
+
+Mollit [nulla voluptate](.) aute irure.
+Cillum excepteur [incididunt culpa](.) elit.
+In non [labore ut magna](.) mollit amet ad voluptate tempor mollit culpa.
+
+## Design advice
+
+Deserunt [veniam elit](.) dolor eiusmod mollit enim nisi.
+Sit excepteur [culpa in nulla Lorem](.) consequat aliquip quis ut.

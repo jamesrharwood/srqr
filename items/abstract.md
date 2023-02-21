@@ -35,3 +35,9 @@ A reader should be able to read the abstract independent of the manuscript and g
 > **Conclusions**: Individual and system-based factors conspire to influence postgraduate medical trainees’ motivation for generating high-quality appraisals of clinical teaching. Academic centers need to address these factors if they want to maximize the usefulness of these assessments.
 
 <!-- #TODO: bad examples -->
+
+## Training
+
+The EQUATOR Network provides training for writing effective manuscript abstracts as part of their [publication school](https://www.equator-network.org/2023/01/24/uk-equator-centre-publication-school-april-2023/).
+
+See this article from the [London School of Economics](https://blogs.lse.ac.uk/impactofsocialsciences/2011/06/20/essential-guide-writing-good-abstracts/) for general abstract writing tips.

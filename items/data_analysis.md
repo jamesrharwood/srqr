@@ -43,3 +43,14 @@ In qualitative research, the unit of analysis is not necessarily the same as the
 > Videotapes were analysed using immersion/crystallisation methods of qualitative data analysis.[REF] With no pre-existing framework developed in advance for analysis, an inductive approach was used to discover patterns of NVB in the data. A team of six researchers met weekly for 18 months to view videos together. Using a consensus-building approach based on a combination of field notes, ‘opportunistic’ interviews with the participants, and repeated viewing of the same material, sometimes many months apart, we eventually achieved consensus on verbal, non-verbal, and physical themes and patterns observed in the data. Finally, as a test of ‘goodness-of-fit,’ we carefully reviewed the videotapes for any ‘deviant’ cases that did not fit the categories we had developed.
 
 > All transcripts were coded thematically by four of the five authors, who met regularly to identify areas of convergence until full agreement was reached. One of the interviewers (P.M.) maintained an audit trail to track the team’s developing thinking. A process of dialectical empiricism[REF] was used to categorise the emergent themes into more abstract concepts...
+
+## Training
+
+Mollit [nulla voluptate](.) aute irure.
+Cillum excepteur [incididunt culpa](.) elit.
+In non [labore ut magna](.) mollit amet ad voluptate tempor mollit culpa.
+
+## Design advice
+
+Deserunt [veniam elit](.) dolor eiusmod mollit enim nisi.
+Sit excepteur [culpa in nulla Lorem](.) consequat aliquip quis ut.

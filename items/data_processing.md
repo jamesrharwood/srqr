@@ -27,3 +27,14 @@ If data are anonymized, the authors should explain how and at what point in the 
 > The interviewers and another member of the research team (H.B.) reviewed transcripts for accuracy.
 
 > We collected data throughout the admission process through direct observation, audio- recording, and chart extraction. We audio-recorded, transcribed, and anonymized both the overnight and morning case review discussions. We also observed the morning case review discussions in person and collected field notes. For each case review discussion, we copied the admission notes from the patient’s record and de-identified all data.
+
+## Training
+
+Mollit [nulla voluptate](.) aute irure.
+Cillum excepteur [incididunt culpa](.) elit.
+In non [labore ut magna](.) mollit amet ad voluptate tempor mollit culpa.
+
+## Design advice
+
+Deserunt [veniam elit](.) dolor eiusmod mollit enim nisi.
+Sit excepteur [culpa in nulla Lorem](.) consequat aliquip quis ut.

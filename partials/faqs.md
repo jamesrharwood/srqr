@@ -17,3 +17,9 @@ The developers synthesised 40 sets of recommendations previously proposed by exp
 ### What to do if asked to remove guideline related content
 
 If a colleague or reviewer asks you to remove content that is related to this guideline, you can direct them to this guideline and the explanation for why that item is important. If they insist, consider moving the item to a supplement, table or figure.
+
+### Where can I get general writing training?
+
+The EQUATOR Network provides in-person [training for writing research articles](https://www.equator-network.org/2023/01/24/uk-equator-centre-publication-school-april-2023/).
+
+AuthorAID have [resources](https://www.authoraid.info/en/resources/), an [online course](https://www.authoraid.info/en/e-learning/), and [mentoring](https://www.authoraid.info/en/mentoring/) to help authors.

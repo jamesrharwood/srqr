@@ -17,3 +17,7 @@ Describe the theoretical and/or practical issues or concerns that make the study
 > Regulatory focus theory may therefore offer insight into the variability in responses to feedback, but how well do these experimental findings translate to real clinical situations in which the reality of responsiveness to feedback seems frustratingly complex? .... In order to better elaborate a theory to account for this variability in learner response to feedback, the present study was undertaken. We aimed, in this study, to determine how readily clinical learning events could be classified as activating a promotion or a prevention focus, and to explore, through a careful analysis of doctors’ descriptions of their feedback experiences, the predictive value of regulatory focus theory in the context of real clinical learning situations.
 
 <!-- #TODO: do we need to justify why these are all necessary? -->
+
+## Design advice
+
+* See [this article](.) for tips on formulating a problem statement.

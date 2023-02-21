@@ -21,3 +21,14 @@ In positivist and post-positivist paradigms, personal characteristics and perspe
 > Reflexivity was maintained by the research team through the analysis and writing by recording, discussing and challenging established assumptions. In addition both EH and SV kept reflexive diaries.
 
 > The first author conducted all interviews and discussion groups. Her own medical undergraduate training took place between 1995 and 2000. She was not known to the participants of this research prior to undertaking the study and deliberately did not undertake any clinical or teaching activities locally alongside this research. Whilst it was useful to ‘know’ (from her own background) what the students were talking about medically (and in terms of detecting items of significance), as a researcher she made conscious efforts not to accept potentially common assumptions at face value.
+
+## Training
+
+Mollit [nulla voluptate](.) aute irure.
+Cillum excepteur [incididunt culpa](.) elit.
+In non [labore ut magna](.) mollit amet ad voluptate tempor mollit culpa.
+
+## Design advice
+
+Deserunt [veniam elit](.) dolor eiusmod mollit enim nisi.
+Sit excepteur [culpa in nulla Lorem](.) consequat aliquip quis ut.

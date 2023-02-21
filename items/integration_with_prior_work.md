@@ -25,3 +25,14 @@ For complete examples of Discussions, see:
 
 * [Henriksen & Ringsted, 2013](http://www.ncbi.nlm.nih.gov/pubmed/23591973)
 * [Westerman et al., 2013](http://www.ncbi.nlm.nih.gov/pubmed/23488760).
+
+## Training
+
+Mollit [nulla voluptate](.) aute irure.
+Cillum excepteur [incididunt culpa](.) elit.
+In non [labore ut magna](.) mollit amet ad voluptate tempor mollit culpa.
+
+## Design advice
+
+Deserunt [veniam elit](.) dolor eiusmod mollit enim nisi.
+Sit excepteur [culpa in nulla Lorem](.) consequat aliquip quis ut.

@@ -22,3 +22,14 @@ All research paradigms and approaches have strengths and weaknesses.
 ## Example
 
 > The study has several limitations. One is that the focus group interview method reveals students’ perceptions rather than their actual behaviors. Observations of the patient-led teaching encounter may have illuminated an understanding of the relationship between patient instructors and medical students. Another limitation is that the PI-led teaching is optional rather than mandatory, which may have influenced students’ attitudes in a positive direction. Moreover, students who are eager to take on extra-curricular activities may not be representative of the whole population. That only 23 out of 39 students signed up for this study might also have influenced results if the missing group of students represented other perceptions than those present in the focus groups. However the received data from the focus groups were rich in information and diverse perceptions were present. Another limitation is the overrepresentation of women over men in our sample. Even though women are also overrepresented in medical school this might potentially have influenced results, but gender differences in perceptions were nevertheless not identified in the data.
+
+## Training
+
+Mollit [nulla voluptate](.) aute irure.
+Cillum excepteur [incididunt culpa](.) elit.
+In non [labore ut magna](.) mollit amet ad voluptate tempor mollit culpa.
+
+## Design advice
+
+Deserunt [veniam elit](.) dolor eiusmod mollit enim nisi.
+Sit excepteur [culpa in nulla Lorem](.) consequat aliquip quis ut.
