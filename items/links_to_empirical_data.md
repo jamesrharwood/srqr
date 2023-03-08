@@ -2,13 +2,9 @@
 id: links-to-empirical-data
 title: Links to empirical data
 ---
-Provide evidence (e.g., quotes, field notes, text excerpts, photographs) to substantiate the more general and abstract concepts or inferences they present as findings. (See also [De-identification](.)).
+Provide evidence (e.g., quotes, field notes, text excerpts, photographs) to substantiate the more general and abstract concepts or inferences they present as findings^[Evidence is typically de-identified to protect the privacy of study participants, settings, and/or institutions.].
 
 You could report this evidence in a table or figure, incorporated into a narrative description of findings, as a stand-alone narrative, or in text blocks embedded in the manuscript text. If you are constrained by word limits or media limitations (e.g.. video), consider sharing data via  an appendix, supplemental material, or web-based repository.
-
-## De-identification
-
-Evidence is typically de-identified to protect the privacy of study participants, settings, and/or institutions.
 
 ## Why readers need this information
 

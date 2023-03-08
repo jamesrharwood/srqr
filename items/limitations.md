@@ -3,19 +3,11 @@ id: limitations
 title: Limitations
 ---
 
-Describe problems or gaps in their efforts to ensure trustworthiness and the potential implications.^[Note 1](.)^
+Describe problems or gaps in their efforts to ensure trustworthiness and the potential implications^[Whereas you should describe techniques used to ensure trustworthiness in the Methods section of the manuscript, this section is about the gaps that you didn't or couldn't cover. For example, if you intended to interview individuals with certain characteristics, or who might offer different perspectives, but were unsuccessful in recruiting any willing participants, explain this issue and describe possible consequences for transferability. (See also Item 18.)].
 
-Describe how the chosen paradigm, approach, and methods will influence the situations to which the findings may reasonably apply.^[Note 2](.)^ (See also [Item 18](./#integration-with-prior-work-implications-transferability-and-contributions-to-the-field).)
+Describe how the chosen paradigm, approach, and methods will influence the situations to which the findings may reasonably apply^[All research paradigms and approaches have strengths and weaknesses.]. (See also [Item 18](./#integration-with-prior-work-implications-transferability-and-contributions-to-the-field).)
 
 Describe how specific decisions or events in the conduct of the study strengthen or weaken the rigor of the findings.
-
-## Note 1
-
-Whereas you should describe techniques used to ensure trustworthiness in the Methods section of the manuscript, this section is about the gaps that you didn't or couldn't cover. For example, if you intended to interview individuals with certain characteristics, or who might offer different perspectives, but were unsuccessful in recruiting any willing participants, explain this issue and describe possible consequences for transferability. (See also Item 18.)
-
-## Note 2
-
-All research paradigms and approaches have strengths and weaknesses.
 
 ## Why readers need this information
 
