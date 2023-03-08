@@ -6,9 +6,12 @@ Provide evidence (e.g., quotes, field notes, text excerpts, photographs) to subs
 
 You could report this evidence in a table or figure, incorporated into a narrative description of findings, as a stand-alone narrative, or in text blocks embedded in the manuscript text. If you are constrained by word limits or media limitations (e.g.. video), consider sharing data via  an appendix, supplemental material, or web-based repository.
 
+## Justification and Examples
+
 ## Why readers need this information
 
-<!-- #TODO -->
+This information helps readers know what decisions the researchers made and why so the reader can 1) consider the relevance to their context and the resonance with their own experience or observations (or lack of resonance and why that might be) and 2) evaluate or critically appraise the manuscript.
+<!-- #ASK Doesn't really reflect necessity -->
 
 ## Examples
 

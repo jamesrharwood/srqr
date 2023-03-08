@@ -16,15 +16,13 @@ Explain the rationale underlying different decisions made throughout the data an
 
 If observations that contrast or deviate from identified concepts or themes were important to your analysis, describe how these discrepancies were handled during the analysis.
 
-If you drew upon a theoretical perspective or framework during analysis, describe theoretical or other influences on your analysis scheme or categories if they exist^[If you identified a theoretical perspective or framework early in the conception of the study or after reviewing some or all of their data, consider referring to these as “sensitizing concepts” to acknowledge that the approach is inductive, but with influence from relevant theory, models, or organizational schemes. Alternatively, explain that themes were developed from the data with no external influences.].
+If you drew upon a theoretical perspective or framework during analysis, describe theoretical or other influences on your analysis scheme or categories if they exist. If you identified a theoretical perspective or framework early in the conception of the study or after reviewing some or all of their data, consider referring to these as “sensitizing concepts” to acknowledge that the approach is inductive, but with influence from relevant theory, models, or organizational schemes. Alternatively, explain that themes were developed from the data with no external influences.
 
 Describe which members of the research team are involved in data analysis and what perspective(s) they bring to the analysis.
 
-Indicate if any software was used to assist with data analysis and _how_ it was used (e.g., used to apply codes after the final coding scheme was developed; to extract coded passages for further synthesis and identification of themes; or to identify passages with key words). Simply stating that software was used is insufficient.
+If software was used to assist with data analysis, describe how it was used^[e.g., used to apply codes after the final coding scheme was developed; to extract coded passages for further synthesis and identification of themes; or to identify passages with key words]. Simply stating that software was used is insufficient.
 
-## Notes
-
-During the analysis process, researchers may draw upon a theoretical perspective or framework, which may have been identified early in the conception of the study or may be identified by the researchers after reviewing some or all of their data. Sometimes these are referred to as “sensitizing concepts” to acknowledge that the approach is inductive, but with influence from relevant theory, models, or organizational schemes. Alternatively, themes may be developed from the data with no external influences.
+## Justification and Examples
 
 ## Why readers need this information
 

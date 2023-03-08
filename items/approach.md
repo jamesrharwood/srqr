@@ -7,7 +7,9 @@ Describe your qualitative approach, your guiding theory (if appropriate), and id
 Explain why the selected approach is appropriate for the research question.
 
 Provide references to theories or traditions that guide the use of the approach as needed.
-<!-- #TODO: null case -->
+<!-- #TODO Charlotte null case, resources -->
+
+## Justification and Examples
 
 ## Why readers need this information
 

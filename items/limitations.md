@@ -9,7 +9,11 @@ Describe how the chosen paradigm, approach, and methods will influence the situa
 
 Describe how specific decisions or events in the conduct of the study strengthen or weaken the rigor of the findings.
 
+## Justification and Example
+
 ## Why readers need this information
+
+All research has limitations. Discussing them will help readers consider the relevance to their context and the resonance with their own experience or observations (or lack of resonance and why that might be). If you don't address limitations, editors and peer reviewers may ask you about them which will delay publication.
 
 ## Example
 

@@ -18,7 +18,13 @@ If your findings include integration with prior literature or theory and/or the 
 
 Items 16 and 18 can be reported in Results or Discussion sections^[In qualitative research the distinction between results and discussion tends to blur because analysis often involves interpretation, inference, and synthesis. Although most journals require separate sections for Results and Discussion, many elements of Items 16 and 18 could reasonably be reported in either section. As such, we defer to authors and editors to determine where to report these essential elements.].
 
+## Justification and Examples
+
 ## Why readers need this information
+
+This information helps readers know what decisions the researchers made and why so the reader can 1) consider the relevance to their context and the resonance with their own experience or observations (or lack of resonance and why that might be) and 2) evaluate or critically appraise the manuscript.
+
+<!-- #ASK doesn't seem to fit -->
 
 ## Examples
 

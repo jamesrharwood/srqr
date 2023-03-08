@@ -22,6 +22,8 @@ If the degree of participation varied among individuals, describe:
 
 This information could appear in the Methods section as part of the description of the sample, or at the beginning of the Results section to provide context for the findings presented.
 
+## More Information, Justification, and Example
+
 ## How does this item differ to Sampling (Item 8)?
 
 The sampling item (Item 8) describes the target or ideal participants, documents, or events selected for the study. By contrast, this item focuses on description of the actual participants, documents or events included in the study.

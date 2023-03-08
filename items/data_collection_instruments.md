@@ -2,14 +2,15 @@
 id: data-collection-instruments
 title: Data collection instruments and technologies
 ---
-Describe all data collection instruments, including their development, and [if/how they changed over the course of the study]{.added}. Cite relevant literatures, theories or conceptual frameworks as appropriate. Consider sharing the data collection instrument(s) or a detailed description of them [in supplementary material or published elsewhere]{.added}.
+Describe all data collection instruments, including their development, and [if/how they changed over the course of the study]{.added}. Cite relevant literatures, theories or conceptual frameworks as appropriate. Consider sharing the data collection instrument(s) or a detailed description of them [in the article body, supplementary material, or published elsewhere]{.added}.
 
 Describe the use of equipment for audio or video recording, reproduction of paper documents or computer files, or other processes in data collection.
 
+## Justification and Examples
+
 ## Why readers need this information
 
-Describing equipment helps readers understand the full context in which data collection occurred and how this context might have affected data collection (e.g., the influence of recording devices on participants' behaviors; the nature of inferences drawn from live vs. recorded events).
-<!-- #TODO justify why instruments must be described. -->
+Describing instruments and equipment helps readers understand the full context in which data collection occurred and how this context might have affected data collection (e.g., the influence of recording devices on participants' behaviors; the nature of inferences drawn from live vs. recorded events).
 
 ## Examples
 

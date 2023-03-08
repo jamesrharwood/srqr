@@ -6,6 +6,8 @@ Describe the setting/site(s) in which the study was conducted, the reason(s) why
 
 Additional context may be reported with findings (i.e., the Results section) to add evidence for interpretations and to enhance discussion of transferability.
 
+## Justification and Example
+
 ## Why readers need this information
 
 This helps readers interpret the meaning and significance of the study findings by situating them in social, cultural, temporal and other relevant contexts.

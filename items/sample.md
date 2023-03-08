@@ -21,6 +21,8 @@ Describe procedures used to recruit participants, including:
 * how and when recruitment occurred
 * why these procedures were selected. (See also [Item 6: Researcher characteristics and reflexivity](./#researcher-characteristics-and-reflexivity))
 
+## Justification and Examples 
+
 ## Why readers need this information
 
 This information helps readers understand the source of data / findings so they can consider the boundaries of the study and the relevance to their own context. It also gives readers insight into the researchers' decisions, which can be important for critical appraisal.

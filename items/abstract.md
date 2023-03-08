@@ -19,12 +19,14 @@ Information presented in the abstract should be consistent with the information 
 
 Use the format of your intended journal. ^[Some journals require abstracts to have subheadings, others don't. In some cases the journal's structured abstract format aligns more with positivist paradigms and quantitative approaches than with qualitative traditions, so translation may be necessary. For example, what might be labelled "Findings" in many qualitative research traditions could be reported as "Results" in the abstract. Similarly, "Design" might be labelled as "Approach" or "Methodology" for a qualitative study.]
 
-# Justification, Example, Training, and Resources
+## Justification, Example, and Resources
 
 <!-- #TODO: abstracts are indexed by search tools -->
 ## Why readers need this information
 
 A reader should be able to read the abstract independent of the manuscript and get a sense of the background, purpose, methods, main results and implications that will be described in greater detail in the manuscript.
+
+[Your abstract will be indexed by search tools so descriptive words will make it easier for others to discover]{.added}.
 
 ## Example
 

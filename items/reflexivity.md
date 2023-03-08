@@ -12,6 +12,8 @@ If your research was observational (e.g., ethnography), describe the role of the
 
 There is no expectation that the study could be precisely replicated; these characteristics and perspectives of the researcher should not be mentioned in the limitation section. (See also [Item 14: Data Analysis](#data-analysis))
 
+## Justification and Examples
+
 ## Why readers need this information
 
 In positivist and post-positivist paradigms, personal characteristics and perspectives of researchers might be viewed as biases that limit the credibility of study findings, while in constructivist or interpretivist paradigms the characteristics and perspectives of the researchers are important contextual factors that are an accepted part of the study design, data collection, and data analysis. These characteristics and perspectives may explain how the researcher(s) obtained access to the site or participants included in the study or may add valuable insight during data analysis.

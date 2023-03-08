@@ -8,6 +8,7 @@ Describe how the findings contribute to or advance the field.
 
 Describe any implications of the work, such transferability or generalizability.
 <!-- #ASK transferability vs generalizability? -->
+## Justification and Examples
 
 ## Why readers need this information
 

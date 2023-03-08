@@ -6,7 +6,12 @@ Describe methods used to ensure trustworthiness and credibility throughout the d
 
 Explain your choice of techniques and why these are appropriate for the particular study.
 
+## Justification, Examples, and Resources
+
 ## Why readers need this information
+
+This information helps readers know what decisions the researchers made and why so the reader can 1) consider the relevance to their context and the resonance with their own experience or observations (or lack of resonance and why that might be) and 2) evaluate or critically appraise the manuscript.
+<!-- #ASK poor explanation -->
 
 ## Examples
 

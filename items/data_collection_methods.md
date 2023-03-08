@@ -13,14 +13,16 @@ Identify the study period.
 
 Describe important characteristics of the individuals conducting interviews, observations or focus groups, and methods used to train these individuals.
 
+## Justification and Examples
+
 ## Why readers need this information
 
 The study period helps readers place the study in temporal context and identify factors not mentioned by the authors that might affect findings, interpretation, and implications. (See Item 8 for ending data collection.)
-<!-- #TODO: why is item 8 relevant? -->
+<!-- #ASK: why is item 8 relevant? -->
 
 Describing researcher characteristics clarifies the relationship between the individuals involved in data collection and the participants in the research and also explains what efforts were made to ensure consistency in the data collection process (See Items 6 and 15.)
-<!-- #TODO: does it? This is framed as justification but maybe it's instruction of what to write? Why do readers need this? -->
-<!-- #TODO: This isn't in the subheading: **Types of data collected; details of data collection procedures including (as appropriate) start and stop dates of data collection and analysis, iterative process, triangulation of sources/methods, and modification of procedures in response to evolving study findings; rationale.** -->
+<!-- #ASK: does it? This is framed as justification but maybe it's instruction of what to write? Why do readers need this? -->
+<!-- #ASK: This isn't in the subheading: **Types of data collected; details of data collection procedures including (as appropriate) start and stop dates of data collection and analysis, iterative process, triangulation of sources/methods, and modification of procedures in response to evolving study findings; rationale.** -->
 
 ## Examples
 
