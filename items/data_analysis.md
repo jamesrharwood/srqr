@@ -2,7 +2,7 @@
 id: data-analysis
 title: Data analysis
 ---
-Describe your analytic process as transparently as possible^1^. [1. E.g., characterize the processes and decisions made for initial classification or segmentation of data, pattern identification and description, and/or development of in-depth interpretations.]{.aside}
+Describe your analytic process as transparently as possible^[E.g., characterize the processes and decisions made for initial classification or segmentation of data, pattern identification and description, and/or development of in-depth interpretations.].
 
 If you used an approach that has a well-defined process for data analysis (e.g., grounded theory, discourse analysis, phenomenography):
 
@@ -12,11 +12,11 @@ If you used an approach that has a well-defined process for data analysis (e.g.,
 
 Specify the unit of analysis.
 
-Explain the rationale underlying different decisions made throughout the data analysis process to provide as much transparency as possible.^2^ [2. In some approaches researchers use memoing or bracketing to make their reflections, interpretations, and links among passages explicit and more transparent to others.]{.aside}
+Explain the rationale underlying different decisions made throughout the data analysis process to provide as much transparency as possible^[In some approaches researchers use memoing or bracketing to make their reflections, interpretations, and links among passages explicit and more transparent to others.].
 
 If observations that contrast or deviate from identified concepts or themes were important to your analysis, describe how these discrepancies were handled during the analysis.
 
-If you drew upon a theoretical perspective or framework during analysis, describe theoretical or other influences on your analysis scheme or categories if they exist.^3^ [3. If you identified a theoretical perspective or framework early in the conception of the study or after reviewing some or all of their data, consider referring to these as “sensitizing concepts” to acknowledge that the approach is inductive, but with influence from relevant theory, models, or organizational schemes. Alternatively, explain that themes were developed from the data with no external influences.]{.aside}
+If you drew upon a theoretical perspective or framework during analysis, describe theoretical or other influences on your analysis scheme or categories if they exist^[If you identified a theoretical perspective or framework early in the conception of the study or after reviewing some or all of their data, consider referring to these as “sensitizing concepts” to acknowledge that the approach is inductive, but with influence from relevant theory, models, or organizational schemes. Alternatively, explain that themes were developed from the data with no external influences.].
 
 Describe which members of the research team are involved in data analysis and what perspective(s) they bring to the analysis.
 
@@ -43,14 +43,3 @@ In qualitative research, the unit of analysis is not necessarily the same as the
 > Videotapes were analysed using immersion/crystallisation methods of qualitative data analysis.[REF] With no pre-existing framework developed in advance for analysis, an inductive approach was used to discover patterns of NVB in the data. A team of six researchers met weekly for 18 months to view videos together. Using a consensus-building approach based on a combination of field notes, ‘opportunistic’ interviews with the participants, and repeated viewing of the same material, sometimes many months apart, we eventually achieved consensus on verbal, non-verbal, and physical themes and patterns observed in the data. Finally, as a test of ‘goodness-of-fit,’ we carefully reviewed the videotapes for any ‘deviant’ cases that did not fit the categories we had developed.
 
 > All transcripts were coded thematically by four of the five authors, who met regularly to identify areas of convergence until full agreement was reached. One of the interviewers (P.M.) maintained an audit trail to track the team’s developing thinking. A process of dialectical empiricism[REF] was used to categorise the emergent themes into more abstract concepts...
-
-## Training
-
-Mollit [nulla voluptate](.) aute irure.
-Cillum excepteur [incididunt culpa](.) elit.
-In non [labore ut magna](.) mollit amet ad voluptate tempor mollit culpa.
-
-## Design advice
-
-Deserunt [veniam elit](.) dolor eiusmod mollit enim nisi.
-Sit excepteur [culpa in nulla Lorem](.) consequat aliquip quis ut.

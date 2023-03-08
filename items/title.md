@@ -22,6 +22,8 @@ This allows readers, reviewers, and search tools to quickly identify the type of
 
 <!-- #TODO: examples of titles that could be improved -->
 
-## Training
+## Training and Resources
+
+See [this article](https://doi.org/10.1007/s40037-016-0267-3) for advice on writing titles that are interesting and descriptive.
 
 The EQUATOR Network provides training for writing effective manuscript titles as part of their [publication school](https://www.equator-network.org/2023/01/24/uk-equator-centre-publication-school-april-2023/).

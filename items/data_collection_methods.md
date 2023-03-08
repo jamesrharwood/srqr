@@ -33,14 +33,3 @@ Describing researcher characteristics clarifies the relationship between the ind
 > Adjustments to the interview protocol were made according to early experience and information participants had provided (i.e. redundant questions were eliminated; questions were reworded to improve flow and clarity; additional probes were included).
 
 > Faculty staff were then interviewed individually by a trained study investigator in a 15-minute, semi-structured interview. This sequence was repeated with other video encounters. Table 2 presents examples of interview questions. Each faculty member was interviewed by at least three interviewers over their various interviews. Interviewers were chosen based on their experience in interviewing. All were trained during a half-day meeting to interpret and deliver the interview guide in the same manner in order to elicit information of a consistent type.
-
-## Training
-
-Mollit [nulla voluptate](.) aute irure.
-Cillum excepteur [incididunt culpa](.) elit.
-In non [labore ut magna](.) mollit amet ad voluptate tempor mollit culpa.
-
-## Design advice
-
-Deserunt [veniam elit](.) dolor eiusmod mollit enim nisi.
-Sit excepteur [culpa in nulla Lorem](.) consequat aliquip quis ut.

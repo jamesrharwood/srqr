@@ -28,11 +28,13 @@ The sampling item (Item 8) describes the target or ideal participants, documents
 
 ## Why readers need this information
 
+This helps readers know whose experiences and perspective are and are not included.
+
 ## Note 1
 
 **Relevant characteristics**
 
-For participants, characteristics might include age, gender, profession, institution, year of training, or relationship to the researcher and/or other participants in the study. For documents, this might include the source, intended audience, date, or type of document.
+For participants, characteristics might include age, race, ethnicity, gender, profession, institution, year of training, or relationship to the researcher and/or other participants in the study. For documents, this might include the source, intended audience, date, or type of document.
 
 For events, this might include the location, date(s), length, characteristics of attendees or participants in the event, or mood or emotional climate.
 
@@ -43,14 +45,3 @@ For events, this might include the location, date(s), length, characteristics of
 > Of the 70 Mindful Communication program participants, 46 met the eligibility requirements to participate in the in-depth interviews. We randomly chose and then contacted 22 participants, of whom 20 agreed to be interviewed within six months of completing the program: 15 in person and 5 by telephone. Two declined for lack of time. On reaching saturation after 20 interviews, no further attempts to contact the remaining 24 participants were made.
 >
 > There were 31 nursing handovers covering 137 patients, and 21 resident handovers covering 101 patients included in this study.
-
-## Training
-
-Mollit [nulla voluptate](.) aute irure.
-Cillum excepteur [incididunt culpa](.) elit.
-In non [labore ut magna](.) mollit amet ad voluptate tempor mollit culpa.
-
-## Design advice
-
-Deserunt [veniam elit](.) dolor eiusmod mollit enim nisi.
-Sit excepteur [culpa in nulla Lorem](.) consequat aliquip quis ut.

@@ -25,13 +25,6 @@ Triangulation of data types and data sources
 Triangulation of Researchers + Audit trail
 > To ensure rigor and increase authenticity in our methodology, we used two kinds of triangulation—investigator triangulation and data triangulation.[REF] We sought analytical rigor using an audit trail and multiple coders; our coding team included an experienced clinician (M.G.) as well as a nonclinician with expertise in medical communication and team dynamics (L.L.).
 
-## Training
+## Training and resources
 
-Mollit [nulla voluptate](.) aute irure.
-Cillum excepteur [incididunt culpa](.) elit.
-In non [labore ut magna](.) mollit amet ad voluptate tempor mollit culpa.
-
-## Design advice
-
-Deserunt [veniam elit](.) dolor eiusmod mollit enim nisi.
-Sit excepteur [culpa in nulla Lorem](.) consequat aliquip quis ut.
+See [Lincoln and Guba's Evaluative Criteria](http://www.qualres.org/HomeLinc-3684.html) for trustworthiness.

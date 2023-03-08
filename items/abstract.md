@@ -4,11 +4,11 @@ title: Abstract
 ---
 Summarise key elements of the study including:
 
-* Background about the problem or phenomenon of interest
-* Description of the study purpose or research question;
-* Methods, including the approach or perspective (e.g., general inductive, grounded theory), context (setting, time period), sample (number and key characteristics of participants, events, documents), data collection strategies (e g., observation, interview, focus group) and data analysis techniques
-* Description of main findings (e.g., themes or inferences) related to the study purpose and/or research question
-* Study implications
+* background about the problem or phenomenon of interest
+* description of the study purpose or research question
+* methods, including the approach or perspective (e.g., general inductive, grounded theory), context (setting, time period), sample (number and key characteristics of participants, events, documents), data collection strategies (e g., observation, interview, focus group) and data analysis techniques
+* description of main findings (e.g., themes or inferences) related to the study purpose and/or research question
+* study implications
 
 <!-- #ASK
 What is the difference between approach and perspective?
@@ -17,7 +17,9 @@ Are data collection strategies the same as data collection methods? -->
 
 Information presented in the abstract should be consistent with the information presented in the full text.
 
-Use the format of your intended journal. Some journals require abstracts to have subheadings, others don't. In some cases the journal's structured abstract format aligns more with positivist paradigms and quantitative approaches than with qualitative traditions, so translation may be necessary. For example, what might be labelled "findings" in many qualitative research traditions could be reported as "results" in the abstract.
+Use the format of your intended journal. ^[Some journals require abstracts to have subheadings, others don't. In some cases the journal's structured abstract format aligns more with positivist paradigms and quantitative approaches than with qualitative traditions, so translation may be necessary. For example, what might be labelled "Findings" in many qualitative research traditions could be reported as "Results" in the abstract. Similarly, "Design" might be labelled as "Approach" or "Methodology" for a qualitative study.]
+
+# Justification, Example, Training, and Resources
 
 <!-- #TODO: abstracts are indexed by search tools -->
 ## Why readers need this information
@@ -36,7 +38,7 @@ A reader should be able to read the abstract independent of the manuscript and g
 
 <!-- #TODO: bad examples -->
 
-## Training
+## Training and Resources
 
 The EQUATOR Network provides training for writing effective manuscript abstracts as part of their [publication school](https://www.equator-network.org/2023/01/24/uk-equator-centre-publication-school-april-2023/).
 

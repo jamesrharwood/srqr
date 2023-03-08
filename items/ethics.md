@@ -22,14 +22,3 @@ Qualitative research often involves interaction between researchers and research
 ## Examples
 
 > Ethical approval was granted by the University of Otago and student participants were invited to attend each focus group discussion by the university representatives of New Zealand Medical Students Association (NZMSA). Usually, a key concern when collecting data from students is that students may feel vulnerable when sharing their experiences with academic staff during a focus group discussion. However, this potential harm was removed as each group discussion was facilitated by a fellow student, the discussions were transcribed by a professional transcribing service, and only the primary researchers [Names] had access to the raw data.
-
-## Training
-
-Mollit [nulla voluptate](.) aute irure.
-Cillum excepteur [incididunt culpa](.) elit.
-In non [labore ut magna](.) mollit amet ad voluptate tempor mollit culpa.
-
-## Design advice
-
-Deserunt [veniam elit](.) dolor eiusmod mollit enim nisi.
-Sit excepteur [culpa in nulla Lorem](.) consequat aliquip quis ut.
