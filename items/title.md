@@ -2,6 +2,7 @@
 id: title
 title: Title
 ---
+
 Describe the nature and topic of the study.
 
 Identify the study as qualitative or indicate the approach or data collection methods.
@@ -11,8 +12,6 @@ Identify the study as qualitative or indicate the approach or data collection me
 ## Why readers need this information
 
 This allows readers to quickly identify the type of study. [Your title will be indexed by search tools so descriptive words will make it easier for others to discover]{.added}.
-
-> Informative titles make manuscripts so much easier to find. If you want your work to be found by other people, make sure you include as many key words as possible in your title and abstract.<br><br>[Helen Bradley - Cochrane Qualitative Syntheses Group]{.small}
 
 ## Examples
 

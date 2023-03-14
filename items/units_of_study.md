@@ -4,7 +4,7 @@ title: Units of study
 ---
 Describe the number of participants, documents, or events included in the study (the units of study).
 
-Describe characteristics of the participants, documents or events that are relevant to the study purpose and research question(s)^[For participants, characteristics might include age, race, ethnicity, gender, profession, institution, year of training, or relationship to the researcher and/or other participants in the study. For documents, this might include the source, intended audience, date, or type of document. For events, this might include the location, date(s), length, characteristics of attendees or participants in the event, or mood or emotional climate.].
+Describe characteristics of the participants, documents or events that are relevant to the study purpose and research question(s).^[For participants, characteristics might include age, race, ethnicity, gender, profession, institution, year of training, or relationship to the researcher and/or other participants in the study. For documents, this might include the source, intended audience, date, or type of document. For events, this might include the location, date(s), length, characteristics of attendees or participants in the event, or mood or emotional climate.]
 
 Include the dates or timeframe for participation.
 

@@ -2,7 +2,7 @@
 id: integration-with-prior-work
 title: Integration with prior work, implications, transferability, and contribution(s) to the field
 ---
-Describe how the findings and conclusions connect to, support, elaborate on, or challenge previous findings, experiences, theory, or a guiding paradigm or approach^[The discussion provides authors an opportunity to elaborate on their findings in relation to their research question(s) and study purpose(s); connect their findings to prior empirical work, theories, and/or frameworks; and discuss implications.].
+Describe how the findings and conclusions connect to, support, elaborate on, or challenge previous findings, experiences, theory, or a guiding paradigm or approach.^[The discussion provides authors an opportunity to elaborate on their findings in relation to their research question(s) and study purpose(s); connect their findings to prior empirical work, theories, and/or frameworks; and discuss implications.]
 
 Describe how the findings contribute to or advance the field.
 

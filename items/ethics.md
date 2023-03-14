@@ -14,6 +14,8 @@ Describe procedures used to protect participants, including:
 
 If you provided compensation or offered incentives to facilitate participation, describe this too.
 
+## Justification and Examples
+
 ## Why readers need this information
 
 Journals will require an ethical approval statement.

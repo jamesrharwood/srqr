@@ -4,6 +4,8 @@ title: Researcher characteristics and reflexivity
 ---
 Describe how roles and identities of research team members influence choice of research approach, data collection, and data analysis.^[Relevant personal characteristics might include cultural background, occupation, experience, training, position/ power dynamics, gender, race/ethnicity, and sponsoring institution.]
 
+["Coming from quantitative research it felt strange to include such personal descriptions of the team. But I came to realise why it was useful to others, and that peer reviewers would expect it." [Tim Westland - Researcher]{.attribution}]{.aside}
+
 Describe the perspectives, assumptions, prior knowledge, preliminary hypotheses, and/or motives (the "stance") of the members of the research team.
 
 Describe the researchers’ relationships to participants in the study and what decisions were made in light of these relationships.^[For example, were any members of the research team part of the sample of potential participants in the study? Do any members of the team teach, supervise, or have any authority over participants in the study? If so, how do these characteristics influence choices about their roles in data collection and analysis?]

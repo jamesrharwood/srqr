@@ -2,7 +2,7 @@
 id: data-analysis
 title: Data analysis
 ---
-Describe your analytic process as transparently as possible^[E.g., characterize the processes and decisions made for initial classification or segmentation of data, pattern identification and description, and/or development of in-depth interpretations.].
+Describe your analytic process as transparently as possible.^[E.g., characterize the processes and decisions made for initial classification or segmentation of data, pattern identification and description, and/or development of in-depth interpretations.]
 
 If you used an approach that has a well-defined process for data analysis (e.g., grounded theory, discourse analysis, phenomenography):
 
@@ -10,9 +10,9 @@ If you used an approach that has a well-defined process for data analysis (e.g.,
 * describe your processes in sufficient detail so readers can judge the extent to which your processes align with the guiding approach.
 * If you modified or deviated from the guiding approach, explain and justify these modifications.
 
-Specify the unit of analysis.
+Specify the unit of analysis.^[In qualitative research, the unit of analysis is not necessarily the same as the unit of sampling (e.g., individual participants or events). Instead, some approaches use specific events as the unit of analysis, such as mentions of a particular topic or experience, or observations of a particular behavior or phenomenon, while others use groups rather than individual group participants. This specification has implications for how the data are organized and analyzed as well as the inferences drawn from the data.]
 
-Explain the rationale underlying different decisions made throughout the data analysis process to provide as much transparency as possible^[In some approaches researchers use memoing or bracketing to make their reflections, interpretations, and links among passages explicit and more transparent to others.].
+Explain the rationale underlying different decisions made throughout the data analysis process to provide as much transparency as possible.^[In some approaches researchers use memoing or bracketing to make their reflections, interpretations, and links among passages explicit and more transparent to others.]
 
 If observations that contrast or deviate from identified concepts or themes were important to your analysis, describe how these discrepancies were handled during the analysis.
 
@@ -20,15 +20,13 @@ If you drew upon a theoretical perspective or framework during analysis, describ
 
 Describe which members of the research team are involved in data analysis and what perspective(s) they bring to the analysis.
 
-If software was used to assist with data analysis, describe how it was used^[e.g., used to apply codes after the final coding scheme was developed; to extract coded passages for further synthesis and identification of themes; or to identify passages with key words]. Simply stating that software was used is insufficient.
+If software was used to assist with data analysis^[e.g., used to apply codes after the final coding scheme was developed; to extract coded passages for further synthesis and identification of themes; or to identify passages with key words], describe how it was used. Simply stating that software was used is insufficient.
 
 ## Justification and Examples
 
 ## Why readers need this information
 
 Techniques used for data analysis will depend on the paradigm, approach, and/or data collection methods selected by the researchers. Correspondingly, authors should be as transparent as possible about the analytic process so that readers can follow the logic of inquiry from the research question(s) to the analysis and findings.
-
-In qualitative research, the unit of analysis is not necessarily the same as the unit of sampling (e.g., individual participants or events). Instead, some approaches use specific events as the unit of analysis, such as mentions of a particular topic or experience, or observations of a particular behavior or phenomenon, while others use groups rather than individual group participants. This specification has implications for how the data are organized and analyzed as well as the inferences drawn from the data.
 
 ## Examples
 

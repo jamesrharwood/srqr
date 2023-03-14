@@ -2,6 +2,8 @@
 id: conflicts-of-interest
 title: Conflicts of interest
 ---
+["Authors shouldn't feel nervous reporting conflicts of interest. They are very common and rarely influence our decision to publish."[Charles Ruggle - Editor]{.attribution}]{.aside}
+
 Describe any real or potential conflicts of interest that might have influenced or could appear to have influenced the research.
 
 Describe:

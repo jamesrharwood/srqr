@@ -4,6 +4,8 @@ title: Context
 ---
 Describe the setting/site(s) in which the study was conducted, the reason(s) why the setting/site(s) was selected, and the salient cultural, political, historical, economic and/or other external factors that influence the study.
 
+[When synthesising evidence, understanding context helps work out how and why different studies and findings fit together (or don't)[Lorna Ellis - Evidence Synthesiser]{.attribution}]{.aside}
+
 Additional context may be reported with findings (i.e., the Results section) to add evidence for interpretations and to enhance discussion of transferability.
 
 ## Justification and Example
