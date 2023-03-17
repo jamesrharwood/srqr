@@ -8,7 +8,7 @@ Explain why the selected approach is appropriate for the research question.
 
 Provide references to theories or traditions that guide the use of the approach as needed.
 
-[I hadn't heard the term 'approach' before writing-up my study. I realise now that I did have an approach and that it might be different to other researcher's approaches, so I need to describe things that I felt were obvious."[Tim Westland - Researcher]{.attribution}]{.aside}
+["I hadn't heard the term 'approach' before writing-up my study. I realise now that I did have an approach and that it might be different to other researcher's approaches, so I need to describe things that I felt were obvious."[Tim Westland - Researcher]{.attribution}]{.aside}
 <!-- #ASK Charlotte null case, resources -->
 If you don't know what your approach or paradigm was, or you don't think you had one, it's OK to reflect on this _after_ collecting data and you should still report it. Read [this list](.) to see what best describes your work.
 
