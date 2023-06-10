@@ -1,6 +1,7 @@
 web:
-    - title.md
-    - abstract.md
+    - Title & Abstract:
+        - title.md
+        - abstract.md
     - Introduction:
         - problem.md
         - purpose.md

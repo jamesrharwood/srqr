@@ -1,1 +1,1 @@
-This guideline [does not prescribe structure](#does-this-guideline-prescribe-structure) and not all items have to go in the article body. Prioritize elements that are most relevant.
+This guideline does not prescribe structure. Prioritize items that are most relevant. Items should be included in the article body whenever possible but some items can be reported in tables, figures, or supplementary materials if necessary (see [FAQs](#does-srqr-prescribe-structure)).
