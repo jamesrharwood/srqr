@@ -1,7 +1,11 @@
 ---
 id: qualitative-approach
 title: Qualitative approach and research paradigm
+checklist: Describe your qualitative approach, your guiding theory (if appropriate), and research paradigm, and reasons for your choices.
 ---
+
+## What to write
+
 Describe your qualitative approach, your guiding theory (if appropriate), and identify the research paradigm.^[Qualitative research includes an array of approaches and methodologies, both general (e.g., qualitative content analysis, general inductive approach) and specific (e.g., ethnography, grounded theory, phenomenography).] ["I like it when authors describe terms in their own words as well as using the proper terms."[Rahilah Zayn - Researcher]{.attribution}]{.aside}
 
 Explain why the selected approach is appropriate for the research question.
@@ -11,8 +15,6 @@ Provide references to theories or traditions that guide the use of the approach 
 ["I hadn't heard the term 'approach' before writing-up my study. I realise now that I did have an approach and that it might be different to other researcher's approaches, so I need to describe things that I felt were obvious."[Tim Westland - Researcher]{.attribution}]{.aside}
 <!-- #ASK Charlotte null case, resources -->
 If you don't know what your approach or paradigm was, or you don't think you had one, it's OK to reflect on this _after_ collecting data and you should still report it. Read [this list](.) to see what best describes your work.
-
-## Justification and Examples
 
 ## Why readers need this information
 

@@ -1,7 +1,11 @@
 ---
 id: data-analysis
 title: Data analysis
+checklist: Describe the process by which inferences, themes, etc. were identified and developed, including the researchers involved in data analysis; usually references a specific paradigm or approach. Describe why you chose this process.
 ---
+
+## What to write
+
 Describe your analytic process as transparently as possible.^[E.g., characterize the processes and decisions made for initial classification or segmentation of data, pattern identification and description, and/or development of in-depth interpretations.]
 
 If you used an approach that has a well-defined process for data analysis (e.g., grounded theory, discourse analysis, phenomenography):
@@ -21,8 +25,6 @@ If you drew upon a theoretical perspective or framework during analysis, describ
 Describe which members of the research team are involved in data analysis and what perspective(s) they bring to the analysis.
 
 If software was used to assist with data analysis^[e.g., used to apply codes after the final coding scheme was developed; to extract coded passages for further synthesis and identification of themes; or to identify passages with key words], describe how it was used. Simply stating that software was used is insufficient.
-
-## Justification and Examples
 
 ## Why readers need this information
 

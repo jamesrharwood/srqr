@@ -1,13 +1,14 @@
 ---
 id: title
 title: Title
+checklist: Describe the nature and topic of the study. Identify the study as qualitative or indicate the approach or data collection methods.
 ---
+
+## What to write
 
 Describe the nature and topic of the study.
 
 Identify the study as qualitative or indicate the approach or data collection methods.
-
-## Justification, Examples, and Resources
 
 ## Why readers need this information
 

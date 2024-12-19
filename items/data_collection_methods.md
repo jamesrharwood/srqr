@@ -1,7 +1,11 @@
 ---
 id: data-collection-methods
 title: Data collection methods
+checklist: Describe the types of data collected; details of data collection procedures including (as appropriate) start and stop dates of data collection and analysis, iterative process, triangulation of sources/methods, and modification of procedures in response to evolving study findings. Describe your rationale for these choices.
 ---
+
+## What to write
+
 Describe data collection methods and design in detail, and justify them in relation to the research question(s), paradigm, approach, and other methods.^[Researchers may choose to use information from multiple sources, contexts, and/or time points depending on their approach and research question(s). (See [Item 11](./#data-collection-instruments-and-technologies) for triangulation.)]
 <!-- #TODO is triangulation a requirement, or part of definition of data collection methods? Isn't it in item 11 again? -->
 If data collection and analysis was iterative:
@@ -12,8 +16,6 @@ If data collection and analysis was iterative:
 Identify the study period.
 
 Describe important characteristics of the individuals conducting interviews, observations or focus groups, and methods used to train these individuals.
-
-## Justification and Examples
 
 ## Why readers need this information
 

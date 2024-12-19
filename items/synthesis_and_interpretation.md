@@ -1,7 +1,11 @@
 ---
 id: synthesis-and-interpretation
 title: Synthesis and interpretation
+checklist: Describe the main findings (e.g., interpretations, inferences, and themes); might include development of a theory or model, or integration with prior research or theory.
 ---
+
+## What to write
+
 Describe the main analytic findings.^[The nature of these findings and how they are reported will depend on the approach and methodology selected and thus should be in alignment with the approach and methods.]
 
 In most cases, report a synthesis of the data along with specific quotes, examples, or illustrations derived from the data.
@@ -14,8 +18,6 @@ Frequency counts play a limited role in qualitative research, and need not be re
 If your findings include integration with prior literature or theory and/or the development of a theory, model or meta-narrative, consider using tables and figures to communicate these findings.
 
 Items 16 and 18 can be reported in Results or Discussion sections.^[In qualitative research the distinction between results and discussion tends to blur because analysis often involves interpretation, inference, and synthesis. Although most journals require separate sections for Results and Discussion, many elements of Items 16 and 18 could reasonably be reported in either section. As such, we defer to authors and editors to determine where to report these essential elements.]
-
-## Justification and Examples
 
 ## Why readers need this information
 

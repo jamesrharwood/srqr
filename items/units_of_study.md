@@ -1,7 +1,11 @@
 ---
 id: units-of-study
 title: Units of study
+checklist: Describe the number and relevant characteristics of participants, documents, or events included in the study. Describe the level of participation.
 ---
+
+## What to write
+
 Describe the number of participants, documents, or events included in the study (the units of study).
 
 Describe characteristics of the participants, documents or events that are relevant to the study purpose and research question(s).^[For participants, characteristics might include age, race, ethnicity, gender, profession, institution, year of training, or relationship to the researcher and/or other participants in the study. For documents, this might include the source, intended audience, date, or type of document. For events, this might include the location, date(s), length, characteristics of attendees or participants in the event, or mood or emotional climate.]
@@ -21,8 +25,6 @@ If the degree of participation varied among individuals, describe:
 * and how these different levels of participation were taken into account in the analysis.
 
 This information could appear in the Methods section as part of the description of the sample, or at the beginning of the Results section to provide context for the findings presented.
-
-## More Information, Justification, and Example
 
 ## How does this item differ to Sampling (Item 8)?
 

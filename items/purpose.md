@@ -1,12 +1,14 @@
 ---
 id: purpose
 title: Purpose or research question
+checklist: Describe the purpose of the study and specific objectives or questions.
 ---
+
+## What to write
+
 ["A clear purpose frames the article." [Rahilah Zayn - Researcher]{.attribution}]{.aside}
 
 Include a statement of study intent. This can be framed as one or more research questions, purposes, goals, or objectives.^[Qualitative studies often explore “how” and “why” questions related to a social or human problems or phenomenon, and they are designed to enhance readers’ understanding of a problem or phenomenon.]
-
-## Justification, Example, and Resources
 
 ## Why readers need this information
 

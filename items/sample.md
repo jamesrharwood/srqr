@@ -1,7 +1,11 @@
 ---
 id: sampling-strategy
 title: Sampling strategy
+checklist: Describe how and why research participants, documents, or events were selected; criteria for deciding when no further sampling was necessary, and the rationale for those criteria.
 ---
+
+## What to write
+
 Describe how and why research participants, sites, documents/artifacts, and/or events were selected for inclusion in (and, if appropriate, exclusion from) the study, along with a justification for this strategy.
 
 Describe the sampling strategy rather than simply labeling it (e.g., "purposive" or "snowball"), since such labels do not have a universally accepted definition and, more importantly, procedures tend to be study- specific.
@@ -20,8 +24,6 @@ Describe procedures used to recruit participants, including:
 * what their relationship was to participants
 * how and when recruitment occurred
 * why these procedures were selected. (See also [Item 6: Researcher characteristics and reflexivity](./#researcher-characteristics-and-reflexivity))
-
-## Justification and Examples
 
 ## Why readers need this information
 

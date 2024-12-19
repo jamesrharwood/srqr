@@ -1,7 +1,11 @@
 ---
 id: researcher-characteristics-and-reflexivity
 title: Researcher characteristics and reflexivity
+checklist: Describe how researchers’ characteristics may influence the research, including personal attributes, qualifications/experience, relationship with participants, assumptions, and/or presuppositions; potential or actual interaction between researchers’ characteristics and the research questions, approach, methods, results and/or transferability.
 ---
+
+## What to write
+
 Describe how roles and identities of research team members influence choice of research approach, data collection, and data analysis.^[Relevant personal characteristics might include cultural background, occupation, experience, training, position/ power dynamics, gender, race/ethnicity, and sponsoring institution.]
 
 ["Coming from quantitative research it felt strange to include such personal descriptions of the team. But I came to realise why it was useful to others, and that peer reviewers would expect it." [Tim Westland - Researcher]{.attribution}]{.aside}
@@ -13,8 +17,6 @@ Describe the researchers’ relationships to participants in the study and what 
 If your research was observational (e.g., ethnography), describe the role of the researcher along a spectrum from passive observer (no involvement in the activity studied) to participant-observer (ranging from some limited involvement in the activity to full involvement).
 
 There is no expectation that the study could be precisely replicated; these characteristics and perspectives of the researcher should not be mentioned in the limitation section. (See also [Item 14: Data Analysis](#data-analysis))
-
-## Justification and Examples
 
 ## Why readers need this information
 

@@ -1,7 +1,11 @@
 ---
 id: conflicts-of-interest
 title: Conflicts of interest
+checklist: Describe any potential sources of influence or perceived influence on study conduct and conclusions. Describe how these were managed.
 ---
+
+## What to write
+
 ["Authors shouldn't feel nervous reporting conflicts of interest. They are very common and rarely influence our decision to publish."[Charles Ruggle - Editor]{.attribution}]{.aside}
 
 Describe any real or potential conflicts of interest that might have influenced or could appear to have influenced the research.
@@ -12,8 +16,6 @@ Describe:
 * the potential impact on study findings and/or conclusions.
 
 Some aspects may be mentioned as part of reflexivity (see [Item 6](./#researcher-characteristics-and-reflexivity)).
-
-## Justification
 
 ## Why readers need this information
 

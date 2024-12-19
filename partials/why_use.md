@@ -1,6 +1,4 @@
-Use SRQR to confidently describe qualitative research so that others can find, understand, and use your work.
-
-SRQR is endorsed by hundreds of journals and was developed by experienced researchers using a thorough process.
+The SRQR <span class="defined" data-bs-toggle="offcanvas" href="#reporting_guideline" aria-controls="offcanvasExample" role="button">reporting guideline</span> helps authors write qualitative research articles that can be understood and used by <span class="defined" data-bs-toggle="offcanvas" href="#research_consumers" aria-controls="offcanvasExample" role="button">everyone</span>. This page summarises SRQR, how it can be used, how it was made, and how to cite it. Each guideline item links to more information, examples, and relevant training.
 <!--
 Although there is much debate about standards for methodological rigor in qualitative research,13,14,18–20 there is widespread agreement about the need for clear and complete reporting.14,21,22 Optimal reporting would enable editors, reviewers, other researchers, and practitioners to critically appraise qualitative studies and apply and synthesize the results. One important step in improving the quality of reporting is to formulate and define clear reporting standards. * Could use this as a before / after quote?
 

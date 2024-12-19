@@ -1,7 +1,11 @@
 ---
 id: abstract 
 title: Abstract
+checklist: Summarise the key elements of the study using the abstract format of the intended publication.
 ---
+
+## What to write
+
 ["Informative key words in the title and abstract make manuscripts easier to find."[Lorna Ellis - Evidence Synthesiser]{.attribution}]{.aside}
 Summarise key elements of the study including:
 
@@ -19,8 +23,6 @@ Are data collection strategies the same as data collection methods? -->
 Information presented in the abstract should be consistent with the information presented in the full text.
 
 [Use the format of your intended journal](.).
-
-## Justification, Example, Notes, and Resources
 
 ## Why readers need this information
 

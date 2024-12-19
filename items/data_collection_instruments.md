@@ -1,12 +1,14 @@
 ---
 id: data-collection-instruments
 title: Data collection instruments and technologies
+checklist: Describe any instruments (e.g., interview guides, questionnaires) and devices (e.g., audio recorders) used for data collection; describe if/how the instrument(s) changed over the course of the study.
 ---
+
+## What to write
+
 Describe all data collection instruments, including their development, and [if/how they changed over the course of the study]{.added}. Cite relevant literatures, theories or conceptual frameworks as appropriate. Consider sharing the data collection instrument(s) or a detailed description of them [in the article body, supplementary material, or published elsewhere]{.added}. ["I publish my materials on the [OSF](www.osf.io) and then describe and cite them in my articles."[Tim Westland - Researcher]{.attribution}]{.aside}
 
 Describe the use of equipment for audio or video recording, reproduction of paper documents or computer files, or other processes in data collection.
-
-## Justification and Examples
 
 ## Why readers need this information
 

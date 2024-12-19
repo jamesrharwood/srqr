@@ -1,7 +1,11 @@
 ---
 id: ethics
 title: Ethical issues pertaining to human subjects
+checklist: Describe any approval by an appropriate ethics review board and participant consent, or explain any lack thereof. Describe any other confidentiality and data security issues.
 ---
+
+## What to write
+
 Report approval for the study from an appropriate institutional review board for research associated with human subjects.
 
 If you did not receive ethical approval, describe why.
@@ -13,8 +17,6 @@ Describe procedures used to protect participants, including:
 * and reporting of findings (e.g., anonymization of excerpts).
 
 If you provided compensation or offered incentives to facilitate participation, describe this too.
-
-## Justification and Examples
 
 ## Why readers need this information
 

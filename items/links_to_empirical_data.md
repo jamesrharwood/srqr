@@ -1,12 +1,14 @@
 ---
 id: links-to-empirical-data
 title: Links to empirical data
+checklist: Provide evidence (e.g., quotes, field notes, text excerpts, photographs) to substantiate analytic findings.
 ---
+
+## What to write
+
 Provide evidence (e.g., quotes, field notes, text excerpts, photographs) to substantiate the more general and abstract concepts or inferences they present as findings.^[Evidence is typically de-identified to protect the privacy of study participants, settings, and/or institutions.] ["I love seeing evidence like this because it really brings results to life." [Nkinda Akaro - Researcher]{.attribution}]{.aside}
 
 You could report this evidence in a table or figure, incorporated into a narrative description of findings, as a stand-alone narrative, or in text blocks embedded in the manuscript text. If you are constrained by word limits or media limitations (e.g.. video), consider sharing data via  an appendix, supplemental material, or web-based repository.
-
-## Justification and Examples
 
 ## Why readers need this information
 

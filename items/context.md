@@ -1,14 +1,16 @@
 ---
 id: context
 title: Context
+checklist: Describe the setting/site(s) in which the study was conducted, why it was selected, and any other salient contextual factors that may influence the study.
 ---
+
+## What to write
+
 Describe the setting/site(s) in which the study was conducted, the reason(s) why the setting/site(s) was selected, and the salient cultural, political, historical, economic and/or other external factors that influence the study.
 
 ["When synthesising evidence, context helps me work out how and why different studies and findings fit together (or don't)"[Lorna Ellis - Evidence Synthesiser]{.attribution}]{.aside}
 
 Additional context may be reported with findings (i.e., the Results section) to add evidence for interpretations and to enhance discussion of transferability.
-
-## Justification and Example
 
 ## Why readers need this information
 
