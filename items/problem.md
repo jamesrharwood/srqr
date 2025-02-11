@@ -14,11 +14,15 @@ Describe the theoretical and/or practical issues or concerns that make the study
 * gaps in current knowledge (the problem statement)
 * the scope of the research problem or phenomena addressed in the study (what will and will not be included)
 * theoretical and/or empirical work directly relevant to the problem or phenomena studied
-* the need for a qualitative approach.^[Justifications for a qualitative approach include to elucidate poorly defined or previously unexplored constructs, to generate theories or to develop causal explanations connecting processes and outcomes, to understand phenomena as they naturally occur and the role of context, to explore problems involving high complexity, to gain insight into participants’ perspectives when such insight is lacking)]
+* the need for a qualitative approach (see [note](#justifications) on common justifications)
 
 ## Why readers need this information
 
 This information provides context for the research question or study purpose and situates the study in relation to other work in the field.
+
+## Common justifications for a qualitative approach {#justifications}
+
+Justifications for a qualitative approach include to elucidate poorly defined or previously unexplored constructs, to generate theories or to develop causal explanations connecting processes and outcomes, to understand phenomena as they naturally occur and the role of context, to explore problems involving high complexity, to gain insight into participants’ perspectives when such insight is lacking.
 
 ## Example
 

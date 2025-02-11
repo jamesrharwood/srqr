@@ -8,11 +8,15 @@ checklist: Describe the purpose of the study and specific objectives or question
 
 ["A clear purpose frames the article." [Rahilah Zayn - Researcher]{.attribution}]{.aside}
 
-Include a statement of study intent. This can be framed as one or more research questions, purposes, goals, or objectives.^[Qualitative studies often explore “how” and “why” questions related to a social or human problems or phenomenon, and they are designed to enhance readers’ understanding of a problem or phenomenon.]
+Include a statement of study intent. This can be framed as one or more research questions(see [note](#qualitative-questions)), purposes, goals, or objectives.
 
 ## Why readers need this information
 
 By clearly stating the purpose of the study, authors set readers’ expectations for the methods, findings and discussion sections of the manuscript.
+
+## Qualitative research questions {#qualitative-questions}
+
+Qualitative studies often explore “how” and “why” questions related to a social or human problems or phenomenon, and they are designed to enhance readers’ understanding of a problem or phenomenon.
 
 ## Example
 

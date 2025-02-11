@@ -6,8 +6,9 @@ checklist: Describe the types of data collected; details of data collection proc
 
 ## What to write
 
-Describe data collection methods and design in detail, and justify them in relation to the research question(s), paradigm, approach, and other methods.^[Researchers may choose to use information from multiple sources, contexts, and/or time points depending on their approach and research question(s). (See [Item 11](./#data-collection-instruments-and-technologies) for triangulation.)]
+Describe data collection methods and design in detail, and justify them in relation to the research question(s), paradigm, approach, and other methods.
 <!-- #TODO is triangulation a requirement, or part of definition of data collection methods? Isn't it in item 11 again? -->
+
 If data collection and analysis was iterative:
 
 * describe the iterative process
@@ -19,10 +20,10 @@ Describe important characteristics of the individuals conducting interviews, obs
 
 ## Why readers need this information
 
-The study period helps readers place the study in temporal context and identify factors not mentioned by the authors that might affect findings, interpretation, and implications. (See Item 8 for ending data collection.)
+The study period helps readers place the study in temporal context and identify factors not mentioned by the authors that might affect findings, interpretation, and implications. (See [Item 8](sampling-strategy.qmd) for ending data collection.)
 <!-- #ASK: why is item 8 relevant? -->
 
-Describing researcher characteristics clarifies the relationship between the individuals involved in data collection and the participants in the research and also explains what efforts were made to ensure consistency in the data collection process (See Items 6 and 15.)
+Describing researcher characteristics clarifies the relationship between the individuals involved in data collection and the participants in the research and also explains what efforts were made to ensure consistency in the data collection process (See [Items 6](researcher-characteristics-and-reflexivity.qmd) and [15](trustworthiness.qmd).)
 <!-- #ASK: does it? This is framed as justification but maybe it's instruction of what to write? Why do readers need this? -->
 <!-- #ASK: This isn't in the subheading: **Types of data collected; details of data collection procedures including (as appropriate) start and stop dates of data collection and analysis, iterative process, triangulation of sources/methods, and modification of procedures in response to evolving study findings; rationale.** -->
 

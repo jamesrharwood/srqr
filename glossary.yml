@@ -1,5 +1,8 @@
-research paradigm: |
-  The set of beliefs and assumptions that guide the research process. These commonly include positivist, post-positivist, constructivist or interpretivist, and critical theory. Qualitative research generally draws from a post-positivist or constructivist/interpretivist paradigm."
+research paradigm: 
+  pattern: (research )?paradigm
+  text: The set of beliefs and assumptions that guide the research process. These commonly include positivist, post-positivist, constructivist or interpretivist, and critical theory. Qualitative research generally draws from a post-positivist or constructivist/interpretivist paradigm."
+  title: Research Paradigm
+  id: research_paradigm
 instruments: Data collection instruments include (but are not limited to) interview or focus group guides, observational protocols and prompts for field notes, and data extraction or coding protocols for selection and analysis of documents, photographs, videos, or other artifacts"
 bias: A term drawn from quantitative research, bias technically means a systematic error, where a particular research finding deviates from a 'true' finding. This might come about through errors in the manner of interviewing, or by errors in sampling. In qualitative research this is a problematic concept, since by definition the qualitative researcher is part of the process, and all researchers are different. This human factor has been said to be both the greatest strength and the greatest weakness of qualitative method. What can be done in commercial qualitative research, however, is to minimise obvious and avoidable sources of bias, for example by not confining all the fieldwork to one social group or geographic location, by taking steps to recognise the personal views of the researcher, (using techniques such as bracketing), and by working in teams.
 sampling strategy: | 
@@ -8,9 +11,13 @@ sampling strategy: |
   *Purposeful sampling* means that participants, documents, or events are selected for their relevance to the research question, based on guiding theory or experiences and assumptions of the researchers. Over the course of the research process, researchers may determine that additional or different participants, documents, or events should be included to address the research question. 
   
   Other sampling techniques, such as *theoretical sampling* (seeking examples of theoretical constructs), *snowball sampling* (using study participants to identify additional participants who meet study criteria), and *convenience sampling* (including any volunteers with no or minimal criteria for inclusion) may be appropriate depending on the question and approach, so long as the authors provide explanation and justification.
-approach: A qualitative “approach” is a general way of thinking about conducting qualitative research. It describes, either explicitly or implicitly, the purpose of the qualitative research, the role of the researcher(s), the stages of research, and the method of data analysis. Commonly used approaches include ethnography, grounded theory, case study, phenomenology, and narrative research.
+approach: 
+  pattern: approach(es)?
+  text: A qualitative “approach” is a general way of thinking about conducting qualitative research. It describes, either explicitly or implicitly, the purpose of the qualitative research, the role of the researcher(s), the stages of research, and the method of data analysis. Commonly used approaches include ethnography, grounded theory, case study, phenomenology, and narrative research.
+  title: Qualitative Approach
+  id: approach
 #TODO implicit judgement about sampling strategy. "May be appropriate...so long as authors provide explanation and justification"
-data collection methods: Data collection methods include (but are not limited to) interviews, focus groups, observations (direct or indirect via video), and review of written text, photographs, and other documents or materials. 
+data collection methods: Researchers may choose to use information from multiple sources, contexts, and/or time points depending on their approach and research question(s). Data collection methods include (but are not limited to) interviews, focus groups, observations (direct or indirect via video), and review of written text, photographs, and other documents or materials. See [Item 11](data-collection-instruments.md) for triangulation.
 iterative: Qualitative research often occurs as an iterative process, meaning that researchers begin data analysis before they complete data collection. The data collection and analysis process may occur in phases or stages. As part of an iterative collection-analysis process, researchers will often alter their data collection methods to explore their preliminary impressions in greater depth and/or actively pursue confirming and disconfirming perspectives. 
 study period: The start and end dates for data collection and analysis.
 ethnography: | 

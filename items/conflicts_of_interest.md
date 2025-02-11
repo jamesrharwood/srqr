@@ -15,7 +15,7 @@ Describe:
 * how these conflicts were managed in the conduct of the study,
 * the potential impact on study findings and/or conclusions.
 
-Some aspects may be mentioned as part of reflexivity (see [Item 6](./#researcher-characteristics-and-reflexivity)).
+Some aspects may be mentioned as part of reflexivity (see [Item 6](researcher-characteristics-and-reflexivity.qmd)).
 
 ## Why readers need this information
 

@@ -6,18 +6,24 @@ checklist: Describe the number and relevant characteristics of participants, doc
 
 ## What to write
 
-Describe the ways in which data are prepared for analysis and managed throughout the analysis process. These activities might include transcription, coding, data entry, and organization of data. (See footnote for audio or visual recordings^[Details might include indication of verbatim transcription of dialogue, additional notes to capture non- verbal information (especially for group interviews or focus groups), and annotations to indicate vocal inflections and utterances, as appropriate for the analytic approach.]).
+Describe the ways in which data are prepared for analysis and managed throughout the analysis process. These activities might include transcription, coding, data entry, and organization of data. (See [note](#recordings) for audio or visual recordings).
 
 Describe the processes used to organize, compile, and categorize data (e.g., field notes, transcripts, documents, photographs, artifacts) for analysis.
 
 If you used transcripts, describe procedures used to check accuracy.
 
-Describe procedures used to maintain data security and protect the privacy of participants, as specified in the human subjects protocols (see footnote on anonymisation^[If data are anonymized, the authors should explain how and at what point in the process this occurred. Authors may choose to use anonymous labels or identifiers to represent quotes or excerpts from unique participants, documents or events, in order to reflect the variety of sources from which such data were derived.] as an example).
+Describe procedures used to maintain data security and protect the privacy of participants.
+
+If data are anonymized, explain how and at what point in the process this occurred. Consider using anonymous labels or identifiers to represent quotes or excerpts from unique participants, documents or events, in order to reflect the variety of sources from which such data were derived.
 
 ## Why readers need this information
 
 This information helps readers know what decisions the researchers made and why so the reader can 1) consider the relevance to their context and the resonance with their own experience or observations (or lack of resonance and why that might be) and 2) evaluate or critically appraise the manuscript.
 <!-- #ASK: default justification doesn't seem to fit -->
+
+## Recordings {#recordings}
+
+For audio or visual recordings, details to report might include indication of verbatim transcription of dialogue, additional notes to capture non- verbal information (especially for group interviews or focus groups), and annotations to indicate vocal inflections and utterances, as appropriate for the analytic approach.
 
 ## Examples
 

@@ -6,7 +6,7 @@ checklist: Describe the main findings (e.g., interpretations, inferences, and th
 
 ## What to write
 
-Describe the main analytic findings.^[The nature of these findings and how they are reported will depend on the approach and methodology selected and thus should be in alignment with the approach and methods.]
+Describe the main analytic findings.
 
 In most cases, report a synthesis of the data along with specific quotes, examples, or illustrations derived from the data.
 <!-- #ASK: is this same as links to empirical data? -->
@@ -17,13 +17,19 @@ Frequency counts play a limited role in qualitative research, and need not be re
 
 If your findings include integration with prior literature or theory and/or the development of a theory, model or meta-narrative, consider using tables and figures to communicate these findings.
 
-Items 16 and 18 can be reported in Results or Discussion sections.^[In qualitative research the distinction between results and discussion tends to blur because analysis often involves interpretation, inference, and synthesis. Although most journals require separate sections for Results and Discussion, many elements of Items 16 and 18 could reasonably be reported in either section. As such, we defer to authors and editors to determine where to report these essential elements.]
+This item can be reported in the Results or Discussion sections (see [note](#where-to-report)).
 
 ## Why readers need this information
+
+The nature of these findings and how they are reported will depend on the approach and methodology selected and thus should be in alignment with the approach and methods.
 
 This information helps readers know what decisions the researchers made and why so the reader can 1) consider the relevance to their context and the resonance with their own experience or observations (or lack of resonance and why that might be) and 2) evaluate or critically appraise the manuscript.
 
 <!-- #ASK doesn't seem to fit -->
+
+## Where to report this item {#where-to-report}
+
+In qualitative research the distinction between results and discussion tends to blur because analysis often involves interpretation, inference, and synthesis. Although most journals require separate sections for Results and Discussion, many elements of Items 16–19 could reasonably be reported in either section. As such, we defer to authors and editors to determine where to report these essential elements.
 
 ## Examples
 

@@ -6,13 +6,15 @@ checklist: Summarise the key elements of the study using the abstract format of 
 
 ## What to write
 
-["Informative key words in the title and abstract make manuscripts easier to find."]{.aside}[Lorna Ellis - Evidence Synthesiser]{.attribution} Summarise key elements of the study including:
+["Informative key words in the title and abstract make manuscripts easier to find."]{.aside}[Lorna Ellis - Evidence Synthesiser]{.attribution} 
 
--   background about the problem or phenomenon of interest
--   description of the study purpose or research question
--   methods, including the approach or perspective (e.g., general inductive, grounded theory), context (setting, time period), sample (number and key characteristics of participants, events, documents), data collection strategies (e g., observation, interview, focus group) and data analysis techniques
--   description of main findings (e.g., themes or inferences) related to the study purpose and/or research question
--   study implications
+Summarise key elements of the study including:
+
+- background about the problem or phenomenon of interest
+- description of the study purpose or research question
+- methods, including the approach or perspective (e.g., general inductive, grounded theory), context (setting, time period), sample (number and key characteristics of participants, events, documents), data collection strategies (e g., observation, interview, focus group) and data analysis techniques
+- description of main findings (e.g., themes or inferences) related to the study purpose and/or research question
+- study implications
 
 ```{=html}
 <!-- #ASK
@@ -23,7 +25,7 @@ Are data collection strategies the same as data collection methods? -->
 
 Information presented in the abstract should be consistent with the information presented in the full text.
 
-[Use the format of your intended journal](.).
+Use the format of your intended journal ([see below](#format)).
 
 ## Why readers need this information
 
@@ -37,7 +39,7 @@ A reader should be able to read the abstract independent of the manuscript and g
 
 <!-- #TODO: bad examples -->
 
-## Use the format of your intended journal
+## Use the format of your intended journal {#format}
 
 Some journals require abstracts to have subheadings, others don't. In some cases the journal's structured abstract format aligns more with positivist paradigms and quantitative approaches than with qualitative traditions, so translation may be necessary. For example, what might be labelled "Findings" in many qualitative research traditions could be reported as "Results" in the abstract. Similarly, "Design" might be labelled as "Approach" or "Methodology" for a qualitative study.
 

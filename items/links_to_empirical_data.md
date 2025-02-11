@@ -6,14 +6,24 @@ checklist: Provide evidence (e.g., quotes, field notes, text excerpts, photograp
 
 ## What to write
 
-Provide evidence (e.g., quotes, field notes, text excerpts, photographs) to substantiate the more general and abstract concepts or inferences they present as findings.^[Evidence is typically de-identified to protect the privacy of study participants, settings, and/or institutions.] ["I love seeing evidence like this because it really brings results to life." [Nkinda Akaro - Researcher]{.attribution}]{.aside}
+Provide evidence (e.g., quotes, field notes, text excerpts, photographs) to substantiate the more general and abstract concepts or inferences they present as findings (see [note](#de-identifying-evidence) on de-identification). ["I love seeing evidence like this because it really brings results to life." [Nkinda Akaro - Researcher]{.attribution}]{.aside}
 
-You could report this evidence in a table or figure, incorporated into a narrative description of findings, as a stand-alone narrative, or in text blocks embedded in the manuscript text. If you are constrained by word limits or media limitations (e.g.. video), consider sharing data via  an appendix, supplemental material, or web-based repository.
+You could report this evidence in a table or figure, incorporated into a narrative description of findings, as a stand-alone narrative, or in text blocks embedded in the manuscript text. If you are constrained by word limits or media limitations (e.g., video), consider sharing data via  an appendix, supplemental material, or web-based repository.
+
+This item can be reported in the Results or Discussion sections (see [note](#where-to-report)).
 
 ## Why readers need this information
 
 This information helps readers know what decisions the researchers made and why so the reader can 1) consider the relevance to their context and the resonance with their own experience or observations (or lack of resonance and why that might be) and 2) evaluate or critically appraise the manuscript.
 <!-- #ASK Doesn't really reflect necessity -->
+
+## De-identifying evidence {#de-identifying-evidence}
+
+Evidence is typically de-identified to protect the privacy of study participants, settings, and/or institutions. See [Item 14](data-processing.qmd) for reporting anonymisation.
+
+## Where to report this item {#where-to-report}
+
+In qualitative research the distinction between results and discussion tends to blur because analysis often involves interpretation, inference, and synthesis. Although most journals require separate sections for Results and Discussion, many elements of Items 16–19 could reasonably be reported in either section. As such, we defer to authors and editors to determine where to report these essential elements.
 
 ## Examples
 
