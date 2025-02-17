@@ -1,1 +1,1 @@
-O﻿verwriting again
+To log in, add `/admin` to the URL
