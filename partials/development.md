@@ -1,0 +1,1 @@
+The {{< meta acronym >}} authors synthesised 40 sets of recommendations previously proposed by experts in qualitative methods. You can read about their development process [here]({{< meta articles.development.URL >}}).

@@ -20,12 +20,12 @@ articles:
     - https://cdn-links.lww.com/permalink/acadmed/a/acadmed_89_9_2014_05_22_obrien_1301196_sdc1.pdf
 citation: 
   title: The SRQR guidelines for writing qualitative research articles
-  type: standard
+  type: book
   issued: 2023/02/20
   doi: 10.1234/equator/1010101
   version: "1.1"
   language: en
-  author: 
+  original-author: 
     - name: Bridget O'Brien
     - name: Ilene Harris
     - name: Thomas Beckman 

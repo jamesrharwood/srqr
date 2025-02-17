@@ -1,10 +1,63 @@
-pagetitle: "SRQR reporting guideline for writing qualitative research articles"
+title: "SRQR reporting guideline for writing qualitative research articles"
 acronym: SRQR
+acronym-definition: Standards for Reporting Qualitative Research
 id: srqr
-doi: 10.1097/ACM.0000000000000388
+doi-for-citation-count: 10.1097/ACM.0000000000000388
+doi: 10.1234/equator/1010101
 data-repo: jamesrharwood/srqr
 open-e-and-e: true
+journal-endorsement-count: 500+
+version: '1.1'
 translations:
-  - language: "French"
+  - language: "🇫🇷 French"
     url: "https://doi.org/10.1016/j.kine.2022.05.004"
-
+articles:
+  development:
+    id: obrienStandardsReportingQualitative2014
+    abstract: "Purpose\_\n        Standards for reporting exist for many types of quantitative research, but currently none exist for the broad spectrum of qualitative research. The purpose of the present study was to formulate and define standards for reporting qualitative research while preserving the requisite flexibility to accommodate various paradigms, approaches, and methods.\n        Method\_\n        The authors identified guidelines, reporting standards, and critical appraisal criteria for qualitative research by searching PubMed, Web of Science, and Google through July 2013; reviewing the reference lists of retrieved sources; and contacting experts. Specifically, two authors reviewed a sample of sources to generate an initial set of items that were potentially important in reporting qualitative research. Through an iterative process of reviewing sources, modifying the set of items, and coding all sources for items, the authors prepared a near-final list of items and descriptions and sent this list to five external reviewers for feedback. The final items and descriptions included in the reporting standards reflect this feedback.\n        Results\_\n        The Standards for Reporting Qualitative Research (SRQR) consists of 21 items. The authors define and explain key elements of each item and provide examples from recently published articles to illustrate ways in which the standards can be met.\n        Conclusions\_\n        The SRQR aims to improve the transparency of all aspects of qualitative research by providing clear standards for reporting qualitative research. These standards will assist authors during manuscript preparation, editors and reviewers in evaluating a manuscript for potential publication, and readers when critically appraising, applying, and synthesizing study findings."
+    accessed:
+      - year: 2022
+        month: 10
+        day: 7
+    author:
+      - family: O’Brien
+        given: Bridget C.
+      - family: Harris
+        given: Ilene B.
+      - family: Beckman
+        given: Thomas J.
+      - family: Reed
+        given: Darcy A.
+      - family: Cook
+        given: David A.
+    citation-key: obrienStandardsReportingQualitative2014
+    container-title: Academic Medicine
+    DOI: 10.1097/ACM.0000000000000388
+    ISSN: 1040-2446
+    issue: '9'
+    issued:
+      - year: 2014
+        month: 9
+    language: en-US
+    page: 1245–1251
+    source: journals.lww.com
+    title: 'Standards for Reporting Qualitative Research: A Synthesis of Recommendations'
+    title-short: Standards for Reporting Qualitative Research
+    type: article-journal
+    URL: >-
+      https://journals.lww.com/academicmedicine/fulltext/2014/09000/Standards_for_Reporting_Qualitative_Research__A.21.aspx
+    volume: '89'
+authors:
+  - family: O&amp
+    given: Bridget
+  - family: '#039'
+    given: ''
+  - family: Brien
+    given: ''
+  - family: Harris
+    given: Ilene
+  - family: Beckman
+    given: Thomas
+  - family: Reed
+    given: Darcy
+  - family: Cook
