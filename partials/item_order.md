@@ -1,3 +1,0 @@
-## Item order and priority
-
-{{< meta acronym >}} does not prescribe order nor structure. Items can be reordered or reported in different sections. For example, some authors may prefer to include some methods items (e.g. Units of Study) in their Results section. Others may call their Results section Findings, or have a completely different manuscript structure. You should include items in the article body when possible, or in tables, figures, or supplements if necessary (see FAQs). Although all items should be reported, you should prioritize items most relevant to your study, findings, context, and readership.

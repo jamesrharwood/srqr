@@ -1,4 +1,4 @@
-**Use SRQR for writing qualitative research articles**. You can use it when describing all kinds of qualitative approaches, methods, and designs.
+**Use {{< meta acronym >}} for writing qualitative research articles**. You can use it when describing all kinds of qualitative approaches, methods, and designs.
 
 <!-- [#TODO: All ontologies and epistemologies?]{.todo} -->
 <!-- All disciplines? -->
