@@ -18,7 +18,7 @@ Summarise key elements of the study including:
 
 ```{=html}
 <!-- #ASK
-Hello world. What is the difference between approach and perspective?
+What is the difference between approach and perspective?
 Is approach the same as qualitative approach?
 Are data collection strategies the same as data collection methods? -->
 ```
