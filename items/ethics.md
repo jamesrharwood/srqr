@@ -1,7 +1,8 @@
 ---
 id: ethics
 title: Ethical issues pertaining to human subjects
-checklist: Describe any approval by an appropriate ethics review board and participant consent, or explain any lack thereof. Describe any other confidentiality and data security issues.
+checklist: 
+    text: Describe any approval by an appropriate ethics review board and participant consent, or explain any lack thereof. Describe any other confidentiality and data security issues.
 ---
 
 ## What to write

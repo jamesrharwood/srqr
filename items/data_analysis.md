@@ -1,7 +1,8 @@
 ---
 id: data-analysis
 title: Data analysis
-checklist: Describe the process by which inferences, themes, etc. were identified and developed, including the researchers involved in data analysis; usually references a specific paradigm or approach. Describe why you chose this process.
+checklist: 
+    text: Describe the process by which inferences, themes, etc. were identified and developed, including the researchers involved in data analysis; usually references a specific paradigm or approach. Describe why you chose this process.
 ---
 
 ## What to write

@@ -1,7 +1,8 @@
 ---
 id: purpose
 title: Purpose or research question
-checklist: Describe the purpose of the study and specific objectives or questions.
+checklist: 
+    text: Describe the purpose of the study and specific objectives or questions.
 ---
 
 ## What to write

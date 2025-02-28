@@ -1,4 +1,4 @@
-web:
+web: &id001
     - Title & Abstract:
         - title.md
         - abstract.md
@@ -26,3 +26,4 @@ web:
     - Other:
         - conflicts_of_interest.md
         - funding.md
+checklist: *id001

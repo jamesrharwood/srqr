@@ -1,7 +1,8 @@
 ---
 id: context
 title: Context
-checklist: Describe the setting/site(s) in which the study was conducted, why it was selected, and any other salient contextual factors that may influence the study.
+checklist: 
+    text: Describe the setting/site(s) in which the study was conducted, why it was selected, and any other salient contextual factors that may influence the study.
 ---
 
 ## What to write

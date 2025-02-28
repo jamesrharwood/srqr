@@ -1,12 +1,13 @@
 ---
 id: qualitative-approach
 title: Qualitative approach and research paradigm
-checklist: Describe your qualitative approach, your guiding theory (if appropriate), and research paradigm, and reasons for your choices.
+checklist: 
+    text: Describe your qualitative approach, your guiding theory (if appropriate), and research paradigm, and reasons for your choices.
 ---
 
 ## What to write
 
-Describe your qualitative approach, your guiding theory (if appropriate), and identify the research paradigm (see [note](#approaches) on approaches). ["I like it when authors describe terms in their own words as well as using the proper terms."[Rahilah Zayn - Researcher]{.attribution}]{.aside}
+Describe your qualitative approach, your guiding theory (if appropriate), and identify the research paradigm (see [note](#approaches) on approaches).
 
 Explain why the selected approach is appropriate for the research question.
 
@@ -27,6 +28,12 @@ Qualitative research includes an array of approaches and methodologies, both gen
 
 ## Examples
 
-> The study was performed from a constructivist point of view using an interpretative phenomenological epistemology. Based on the notion that social phenomena are constructed by the communal making of meaning about the underlying phenomena, we aimed to construct insightful accounts of lead consultants’ approaches to educational change, rather than to identify the ‘true’ nature of these approaches. Because the management of change by lead consultants is an under-researched area, we conducted an exploratory qualitative study...
+> This [constructivist, phenomenological study]{.highlight-bad} involved...
+
+This is a bad example. Although the authors have named their approach, they have not explained the terms in their own words. 
+
+> The study was performed from a constructivist point of view using an interpretative phenomenological epistemology. [Based on the notion that social phenomena are constructed by the communal making of meaning about the underlying phenomena, we aimed to construct insightful accounts of lead consultants’ approaches to educational change, rather than to identify the ‘true’ nature of these approaches]{.highlight-good}. Because the management of change by lead consultants is an under-researched area, we conducted an exploratory qualitative study...
+
+This is a much better example because the authors describe what they mean when using the terms constructivist and phenomenological.
 
 > Given the relative dearth of explanatory theories about factors affecting medical students’ emotional reactions, we chose to develop one by applying methods associated with grounded theory, specifically constant comparative analysis, to qualitative data obtained from learning logs and interviews. Our approach was constructivist, deliberately using researchers’ own experiences and acquired knowledge to enhance theoretical sensitivity and enrich theory development.

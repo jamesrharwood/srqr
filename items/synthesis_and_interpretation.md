@@ -1,7 +1,8 @@
 ---
 id: synthesis-and-interpretation
 title: Synthesis and interpretation
-checklist: Describe the main findings (e.g., interpretations, inferences, and themes); might include development of a theory or model, or integration with prior research or theory.
+checklist: 
+    text: Describe the main findings (e.g., interpretations, inferences, and themes); might include development of a theory or model, or integration with prior research or theory.
 ---
 
 ## What to write

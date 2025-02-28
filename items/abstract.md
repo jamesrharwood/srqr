@@ -1,7 +1,8 @@
 ---
 id: abstract 
 title: Abstract
-checklist: Summarise the key elements of the study using the abstract format of the intended publication.
+checklist: 
+    text: Summarise the key elements of the study using the abstract format of the intended publication.
 ---
 
 ## What to write

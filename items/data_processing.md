@@ -1,7 +1,8 @@
 ---
 id: data-processing
 title: Data processing
-checklist: Describe the number and relevant characteristics of participants, documents, or events included in the study. Describe the level of participation.
+checklist: 
+    text: Describe the number and relevant characteristics of participants, documents, or events included in the study. Describe the level of participation.
 ---
 
 ## What to write

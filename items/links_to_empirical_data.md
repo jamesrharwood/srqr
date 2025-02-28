@@ -1,7 +1,8 @@
 ---
 id: links-to-empirical-data
 title: Links to empirical data
-checklist: Provide evidence (e.g., quotes, field notes, text excerpts, photographs) to substantiate analytic findings.
+checklist: 
+    text: Provide evidence (e.g., quotes, field notes, text excerpts, photographs) to substantiate analytic findings.
 ---
 
 ## What to write

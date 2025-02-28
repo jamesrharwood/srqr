@@ -1,7 +1,8 @@
 ---
 id: limitations
 title: Limitations
-checklist: Discuss the trustworthiness and limitations of findings
+checklist: 
+    text: Discuss the trustworthiness and limitations of findings
 ---
 
 ## What to write

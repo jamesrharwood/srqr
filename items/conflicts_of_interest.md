@@ -1,7 +1,8 @@
 ---
 id: conflicts-of-interest
 title: Conflicts of interest
-checklist: Describe any potential sources of influence or perceived influence on study conduct and conclusions. Describe how these were managed.
+checklist: 
+    text: Describe any potential sources of influence or perceived influence on study conduct and conclusions. Describe how these were managed.
 ---
 
 ## What to write

@@ -1,7 +1,8 @@
 ---
 id: problem-formulation
 title: Problem Formulation
-checklist: Describe the problem/phenomenon studied, its significance,relevant theory and empirical work, and gaps in current knowledge.
+checklist: 
+    text: Describe the problem/phenomenon studied, its significance,relevant theory and empirical work, and gaps in current knowledge.
 ---
 
 ## What to write

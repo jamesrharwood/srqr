@@ -1,7 +1,8 @@
 ---
 id: sampling-strategy
 title: Sampling strategy
-checklist: Describe how and why research participants, documents, or events were selected; criteria for deciding when no further sampling was necessary, and the rationale for those criteria.
+checklist: 
+    text: Describe how and why research participants, documents, or events were selected; criteria for deciding when no further sampling was necessary, and the rationale for those criteria.
 ---
 
 ## What to write
