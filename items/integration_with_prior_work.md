@@ -3,6 +3,11 @@ id: integration-with-prior-work
 title: Integration with prior work, implications, transferability, and contribution(s) to the field
 checklist: 
     text: Summarize the main findings, explain how findings and conclusions connect to, support, elaborate on, or challenge conclusions of earlier scholarship; discuss the scope of application/generalizability; identify unique contribution(s) to scholarship in a discipline or field.
+writing_guide: 
+    text: |
+        * How do your findings and conclusions relate to the literature you cited in your introduction? Do they challenge previous work, support it, or add new context?
+        * How do your findings advance your field?
+        * How might your findings transfer or generalize to other phenomena or fields? 
 ---
 
 ## What to write

@@ -3,6 +3,12 @@ id: qualitative-approach
 title: Qualitative approach and research paradigm
 checklist: 
     text: Describe your qualitative approach, your guiding theory (if appropriate), and research paradigm, and reasons for your choices.
+writing_guide: 
+    text: |
+        * If you used a guiding theory, what was it?
+        * What were your [qualitative approach](www.google.com#TODO) and [paradigm](www.google.com#TODO)? Describe them in your own words.
+        * Why did you choose them?  
+        * What key references influenced your approach?
 ---
 
 ## What to write

@@ -3,6 +3,23 @@ id: abstract
 title: Abstract
 checklist: 
     text: Summarise the key elements of the study using the abstract format of the intended publication.
+writing_guide:
+    text: |
+        Your abstract needs to paint an accurate and interesting summary of your work. 
+        
+        * If you have a target journal in mind, check their author instructions for limits on abstract length and structure. 
+        * It will be indexed by search engines, so look at your notes above and pick out the key phrases.
+        * these key phrases should include:
+            * your phenomena of interest
+            * your methods, including the approach or perspective (e.g., general inductive, grounded theory), 
+            * context (setting, time period), 
+            * sample (number and key characteristics of participants, events, or documents), 
+            * data collection strategies (e.g., observation, interview, focus group),
+            * and analysis techniques.
+        * Craft these keywords into sentences that describe your research question and methods. Add a background sentence to justify why your research question is important.
+        * Summarise your main findings (e.g., themes or inferences) and their implications. 
+
+        Most journals invite authors to provide _keywords_ in addition to the abstract, so if you struggle to include all key phrases within the abstract, consider providing them as keywords. Your abstract, title, and keywords will all be indexed, so to make your work as findable as possible, you should try to use as many different relevant terms as possible.
 ---
 
 ## What to write

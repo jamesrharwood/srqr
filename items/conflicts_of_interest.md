@@ -3,6 +3,12 @@ id: conflicts-of-interest
 title: Conflicts of interest
 checklist: 
     text: Describe any potential sources of influence or perceived influence on study conduct and conclusions. Describe how these were managed.
+writing_guide:
+    text: |
+        * What conflicts of interest may have influenced the research? These could be financial, professional, or personal.
+        * How might these have influenced the findings?
+
+        Some aspects may have been mentioned as part of Reflexivity.
 ---
 
 ## What to write

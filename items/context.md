@@ -3,6 +3,13 @@ id: context
 title: Context
 checklist: 
     text: Describe the setting/site(s) in which the study was conducted, why it was selected, and any other salient contextual factors that may influence the study.
+writing_guide:
+    text: |
+        * Where was the research conducted (its setting/site)?
+        * Why did you choose this setting/site? 
+        * Did any salient cultural, political, historical, economic or other external factors influence your study?
+
+        Although most of this context will fit best in your methods section, you can also consider placing additional context with your findings in the Results section to add evidence for interpretations and enhance discussion of transferability.
 ---
 
 ## What to write

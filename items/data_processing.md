@@ -2,7 +2,13 @@
 id: data-processing
 title: Data processing
 checklist: 
-    text: Describe the number and relevant characteristics of participants, documents, or events included in the study. Describe the level of participation.
+    text: Describe the methods for processing data prior to and during analysis, including transcription, data entry, data management and security, verification of data integrity, data coding, and anonymisation / deidentification of excerpts.
+writing_guide:
+    text: |
+        * If you processed data before analysing it, when and how did you do this? (e.g., transcribing, anonymisation, data entry).
+        * How did you process data during analysis? (E.g. coding, organising)
+        * If you used transcripts, did you check accuracy in any way?
+        * How did you maintain data security and protect the privacy or participants? 
 ---
 
 ## What to write

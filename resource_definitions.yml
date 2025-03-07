@@ -27,3 +27,32 @@ web: &id001
         - conflicts_of_interest.md
         - funding.md
 checklist: *id001
+writing_guide: 
+    - Introduction:
+        - purpose.md
+    - Methods:
+        - approach.md
+        - context.md
+        - sample.md
+        - data_collection_methods.md
+        - data_collection_instruments.md
+        - units_of_study.md
+        - data_processing.md
+        - data_analysis.md
+        - ethics.md
+        - reflexivity.md
+        - trustworthiness.md
+    - Results:
+        - synthesis_and_interpretation.md
+        - links_to_empirical_data.md
+    - Discussion:
+        - integration_with_prior_work.md
+        - limitations.md
+    - Introduction (again):
+        - problem.md
+    - Other:
+        - conflicts_of_interest.md
+        - funding.md 
+    - Title & Abstract:
+        - abstract.md 
+        - title.md

@@ -3,6 +3,13 @@ id: data-collection-instruments
 title: Data collection instruments and technologies
 checklist: 
     text: Describe any instruments (e.g., interview guides, questionnaires) and devices (e.g., audio recorders) used for data collection; describe if/how the instrument(s) changed over the course of the study.
+writing_guide:
+    text: |
+        * List all data collection instruments (e.g., interview schedules, questionnaires)
+        * Who developed them, and how?
+        * Where can readers access them? Consider sharing them in the article, as a supplement, or via a repository like the OSF.
+        * Describe any equipment you used for audio or video recordings.
+
 ---
 
 ## What to write

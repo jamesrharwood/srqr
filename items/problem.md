@@ -2,7 +2,17 @@
 id: problem-formulation
 title: Problem Formulation
 checklist: 
-    text: Describe the problem/phenomenon studied, its significance,relevant theory and empirical work, and gaps in current knowledge.
+    text: Describe the problem/phenomenon studied, its significance, relevant theory and empirical work, and gaps in current knowledge.
+writing_guide:
+    text: |
+        * Having already defined your research question, describe the knowledge gap this question fills. 
+        * When describing this knowledge gap (or, what _isn't_ known), give an overview of what _is_ known about the problem and the key research this knowledge comes from.
+        * Why did you decide to use a qualitative approach to answer your question, instead of a purely quantitative approach?
+
+        Think about how to structure your introduction to make the narrative clear and compelling. 
+
+# Other advice could include different ways to structure – e.g. inverted funnel, problem first, catchy example hook
+# Advice to give a blueprint of article structure? #TODO
 ---
 
 ## What to write

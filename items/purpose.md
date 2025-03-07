@@ -3,6 +3,13 @@ id: purpose
 title: Purpose or research question
 checklist: 
     text: Describe the purpose of the study and specific objectives or questions.
+writing_guide:
+    text: |
+        What was the purpose of your study? Authors often frame this as one or more questions or statements, often asking "how" or "why". 
+
+        NB. You'll notice this guide asks questions in a different order to how articles are presented. There are more questions about your introduction later, and questions about your abstract and title appear later still. This is because we recommend beginning to write by first defining your research question, then describing your methods and results. 
+
+# Could mention Acronyms to frame qualitative questions. #ASK
 ---
 
 ## What to write

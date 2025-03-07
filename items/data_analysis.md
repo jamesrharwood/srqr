@@ -3,6 +3,21 @@ id: data-analysis
 title: Data analysis
 checklist: 
     text: Describe the process by which inferences, themes, etc. were identified and developed, including the researchers involved in data analysis; usually references a specific paradigm or approach. Describe why you chose this process.
+writing_guide:
+    text: | 
+        What was your unit of analysis?
+
+        If you used an approach that has a well-defined process for data analysis (e.g., grounded theory, discourse analysis, phenomenography):
+
+        * what literature guided you? (collate your references)
+        * describe your processes in sufficient detail so readers can judge the extent to which your processes align with the guiding approach.
+        * If you modified or deviated from the guiding approach, explain and justify these modifications.
+    
+        Otherwise, describe your process step by step. 
+
+        Who performed analysis steps?
+
+        Why did you choose this analysis process?
 ---
 
 ## What to write

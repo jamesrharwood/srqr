@@ -3,6 +3,12 @@ id: data-collection-methods
 title: Data collection methods
 checklist: 
     text: Describe the types of data collected; details of data collection procedures including (as appropriate) start and stop dates of data collection and analysis, iterative process, triangulation of sources/methods, and modification of procedures in response to evolving study findings. Describe your rationale for these choices.
+writing_guide:
+    text: |
+        * When did data collection begin and end?
+        * Name your methods, and describe them step-by-step in sufficient detail to allow a reader to repeat them. 
+        * Why did you choose these methods? When justifying them, consider your research question, paradigm, approach, and other methods.
+        * Who collected data? Describe any important characteristics of them, and any training they received for this study.
 ---
 
 ## What to write

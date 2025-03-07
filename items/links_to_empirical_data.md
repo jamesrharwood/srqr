@@ -3,6 +3,9 @@ id: links-to-empirical-data
 title: Links to empirical data
 checklist: 
     text: Provide evidence (e.g., quotes, field notes, text excerpts, photographs) to substantiate analytic findings.
+writing_guide:
+    text: |
+        Go through your data and select quotes/excerpts that you feel best exemplify your findings. 
 ---
 
 ## What to write
@@ -15,7 +18,7 @@ This item can be reported in the Results or Discussion sections (see [note](#whe
 
 ## Why readers need this information
 
-This information helps readers know what decisions the researchers made and why so the reader can 1) consider the relevance to their context and the resonance with their own experience or observations (or lack of resonance and why that might be) and 2) evaluate or critically appraise the manuscript.
+This information helps bring results to life, and adds credibility.
 <!-- #ASK Doesn't really reflect necessity -->
 
 ## De-identifying evidence {#de-identifying-evidence}

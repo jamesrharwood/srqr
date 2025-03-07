@@ -3,6 +3,10 @@ id: funding
 title: Funding
 checklist: 
     text: Describe sources of funding and other support. Describe the role of funders in data collection, interpretation, and reporting.
+writing_guide:
+    text: |
+        * List your sources of funding. 
+        * Describe the role of your funders in data collection, analysis and reporting. 
 ---
 
 ## What to write

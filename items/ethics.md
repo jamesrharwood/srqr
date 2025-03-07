@@ -3,6 +3,18 @@ id: ethics
 title: Ethical issues pertaining to human subjects
 checklist: 
     text: Describe any approval by an appropriate ethics review board and participant consent, or explain any lack thereof. Describe any other confidentiality and data security issues.
+writing_guide:
+    text: |
+        Did you receive ethical approval for this study? If so, what was the name of the review board, and what was the approval number?
+        If not, describe why. 
+
+        What procedures did you use to protect participants? E.g.,
+
+        * How did you collect informed consent? If you didn't, why not? 
+        * How did you ensure data security and integrity, if at all?
+        * Did you anonymize participants, if at all?
+    
+        Did you offer any compensation or incentives to facilitate participation? Describe it.
 ---
 
 ## What to write

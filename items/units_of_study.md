@@ -3,6 +3,7 @@ id: units-of-study
 title: Units of study
 checklist: 
     text: Describe the number and relevant characteristics of participants, documents, or events included in the study. Describe the level of participation.
+#TODO: writing guide
 ---
 
 ## What to write

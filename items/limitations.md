@@ -3,11 +3,17 @@ id: limitations
 title: Limitations
 checklist: 
     text: Discuss the trustworthiness and limitations of findings
+writing_guide:
+    text: |
+        All research has limitations. The best researchers try hard to acknowledge them and discuss how they may have influenced findings.
+
+        * Look back at the items above, and consider whether your chosen paradigm, approach, and methods may influence the situations to which the findings may reasonably apply
+        * Look at the items above, and list any that you did not (or could not do). Consider how these gaps may have influenced your findings. If not, why not? 
 ---
 
 ## What to write
 
-Describe problems or gaps in their efforts to ensure trustworthiness and the potential implications.^[Whereas you should describe techniques used to ensure trustworthiness in the Methods section of the manuscript, this section is about the gaps that you didn't or couldn't cover. For example, if you intended to interview individuals with certain characteristics, or who might offer different perspectives, but were unsuccessful in recruiting any willing participants, explain this issue and describe possible consequences for transferability. (See also [Item 18](integration-with-prior-work.qmd).)] ["Authors should never feel nervous to report limitations. In fact, thoughtful discussion of limitations is a hallmark of good research!"[Charles Ruggle - Editor]{.attribution}]{.aside}
+Describe problems or gaps in your efforts to ensure trustworthiness and the potential implications.^[Whereas you should describe techniques used to ensure trustworthiness in the Methods section of the manuscript, this section is about the gaps that you didn't or couldn't cover. For example, if you intended to interview individuals with certain characteristics, or who might offer different perspectives, but were unsuccessful in recruiting any willing participants, explain this issue and describe possible consequences for transferability. (See also [Item 18](integration-with-prior-work.qmd).)] ["Authors should never feel nervous to report limitations. In fact, thoughtful discussion of limitations is a hallmark of good research!"[Charles Ruggle - Editor]{.attribution}]{.aside}
 
 Describe how the chosen paradigm, approach, and methods will influence the situations to which the findings may reasonably apply.^[All research paradigms and approaches have strengths and weaknesses.] (See also [Item 18](integration-with-prior-work.qmd).)
 
