@@ -6,7 +6,7 @@ checklist:
 writing_guide: 
     text: |
         * If you used a guiding theory, what was it?
-        * What were your [qualitative approach](www.google.com#TODO) and [paradigm](www.google.com#TODO)? Describe them in your own words.
+        * What were your qualitative approach and paradigm? Describe them in your own words.
         * Why did you choose them?  
         * What key references influenced your approach?
 ---
