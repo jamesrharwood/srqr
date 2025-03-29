@@ -5,7 +5,7 @@ checklist:
     text: Describe sources of funding and other support. Describe the role of funders in data collection, interpretation, and reporting.
 writing_guide:
     text: |
-        * List your sources of funding. 
+        * List your sources of funding, including any grant codes.
         * Describe the role of your funders in data collection, analysis and reporting. 
 ---
 

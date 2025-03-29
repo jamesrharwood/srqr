@@ -14,7 +14,7 @@ writing_guide:
         * How did you ensure data security and integrity, if at all?
         * Did you anonymize participants, if at all?
     
-        Did you offer any compensation or incentives to facilitate participation? Describe it.
+        If you offered compensation or incentives to facilitate participation, describe them.
 ---
 
 ## What to write

@@ -5,7 +5,11 @@ checklist:
     text: Provide evidence (e.g., quotes, field notes, text excerpts, photographs) to substantiate analytic findings.
 writing_guide:
     text: |
-        Go through your data and select quotes/excerpts that you feel best exemplify your findings. 
+        For your bullet points above, go through your data and select quotes/excerpts that you feel best exemplify your findings.
+
+        Depending on your target journal, your word limit may restrict the number of quotes you can include, so consider sharing evidence in a supplement or repository.
+
+        Remember to include evidence that show variety, disagreement, or nuance. 
 ---
 
 ## What to write

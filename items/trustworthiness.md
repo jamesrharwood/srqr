@@ -3,7 +3,13 @@ id: trustworthiness
 title: Techniques to enhance trustworthiness
 checklist: 
     text: Describe any techniques to enhance trustworthiness and credibility of data analysis,(e.g., member checking, triangulation, audit trail). Describe why you chose these techniques.
-#TODO: writing guide
+writing_guide: 
+    text: |
+        What techniques did you use to enhance trustworthiness and credibility of data collection and analysis? 
+
+        Some authors prefer to present this as a table, especially if submitting to a quantitative journal.
+    
+        See [Lincoln and Guba's Evaluative Criteria](http://www.qualres.org/HomeLinc-3684.html) for trustworthiness.
 ---
 
 ## What to write

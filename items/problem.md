@@ -5,11 +5,18 @@ checklist:
     text: Describe the problem/phenomenon studied, its significance, relevant theory and empirical work, and gaps in current knowledge.
 writing_guide:
     text: |
-        * Having already defined your research question, describe the knowledge gap this question fills. 
-        * When describing this knowledge gap (or, what _isn't_ known), give an overview of what _is_ known about the problem and the key research this knowledge comes from.
-        * Why did you decide to use a qualitative approach to answer your question, instead of a purely quantitative approach?
+        Beyond summarising what is already known about your topic, your introduction should identify what remains _unknown_ and how your research question addresses this knowledge gap. 
+        
+        * Bullet point what is already known with key references
+        * Bullet point what is _not_ known
+        * Why is this gap important?
+        * Look through your research question, and consider introducing your chosen sample, phenomena, design, evaluation, and research type. Why did you make these choices?
+
+        After you reorganise this document into a coherent narrative, this section will come directly before your research question. After this section, readers should be able to predict your research question and be familiar with the key terms you will use throughout your manuscript.
 
         Think about how to structure your introduction to make the narrative clear and compelling. 
+
+        Brainstorm ideas for a [strong opening](https://cmsw.mit.edu/writing-and-communication-center/resources/writers/introduction-strategies/).
 
 # Other advice could include different ways to structure – e.g. inverted funnel, problem first, catchy example hook
 # Advice to give a blueprint of article structure? #TODO

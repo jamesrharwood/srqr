@@ -7,6 +7,14 @@ writing_guide:
     text: |
         What was the purpose of your study? Authors often frame this as one or more questions or statements, often asking "how" or "why". 
 
+        Consider the acronym [SPIDER](https://doi.org/10.1177/1049732312452938): 
+        
+        * Sample (who did you speak to?), 
+        * Phenomena of Interest (the topic of the research, e.g., the behaviour or event you are interested in) 
+        * Design (your theoretical framework and methods)
+        * Evaluation (the outcomes of your study e.g., experiences, attitudes, barriers)
+        * Research type (e.g., qualitative, mixed-methods, case study, phenomenology, grounded theory)
+
         NB. You'll notice this guide asks questions in a different order to how articles are presented. There are more questions about your introduction later, and questions about your abstract and title appear later still. This is because we recommend beginning to write by first defining your research question, then describing your methods and results. 
 
 # Could mention Acronyms to frame qualitative questions. #ASK

@@ -5,6 +5,8 @@ checklist:
     text: Summarise the key elements of the study using the abstract format of the intended publication.
 writing_guide:
     text: |
+        We recommend writing your abstract and title last.
+        
         Your abstract needs to paint an accurate and interesting summary of your work. 
         
         * If you have a target journal in mind, check their author instructions for limits on abstract length and structure. 

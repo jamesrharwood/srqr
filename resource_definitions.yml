@@ -45,11 +45,11 @@ writing_guide:
     - Results:
         - synthesis_and_interpretation.md
         - links_to_empirical_data.md
+    - Introduction (again):
+        - problem.md
     - Discussion:
         - integration_with_prior_work.md
         - limitations.md
-    - Introduction (again):
-        - problem.md
     - Other:
         - conflicts_of_interest.md
         - funding.md 

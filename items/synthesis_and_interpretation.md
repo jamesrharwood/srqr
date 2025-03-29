@@ -3,7 +3,15 @@ id: synthesis-and-interpretation
 title: Synthesis and interpretation
 checklist: 
     text: Describe the main findings (e.g., interpretations, inferences, and themes); might include development of a theory or model, or integration with prior research or theory.
-#TODO: writing guide
+writing_guide: 
+    text: |
+        What were your main findings? List them as bullet points. It's often useful to begin your findings with a summary.
+        
+        For each bullet point, make a note of variety and counter-examples.
+
+        If your findings include integration with prior literature or theory and/or the development of a theory, model or meta-narrative, consider using tables and figures and describe these as text placeholders (you'll make real figures and tables after drafting).
+
+        Don't worry about reporting exact frequency counts. Frequency counts play a limited role in qualitative research, and need not be reported unless they play a meaningful role in interpretation of the data. Instead, consider using words like "most", "few", "all". 
 ---
 
 ## What to write

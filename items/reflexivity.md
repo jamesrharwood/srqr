@@ -3,7 +3,17 @@ id: researcher-characteristics-and-reflexivity
 title: Researcher characteristics and reflexivity
 checklist: 
     text: Describe how researchers’ characteristics may influence the research, including personal attributes, qualifications/experience, relationship with participants, assumptions, and/or presuppositions; potential or actual interaction between researchers’ characteristics and the research questions, approach, methods, results and/or transferability.
-#TODO: writing guide
+writing_guide:
+    text: |
+        Introduce yourself and your team members so readers may understand your background, experience, and any other characteristics you feel may be relevant. 
+        
+        Upon beginning this study, did you or your team hold any perspectives, assumptions, prior knowledge or hypotheses (your "stance")? 
+        
+        Describe how your characteristics or stance influenced choices you made when designing your study, and when collecting and analysing data. 
+        
+        Describe the researchers’ relationships to participants in the study and what decisions were made in light of these relationships.
+
+        Don't be afraid of describing these – they're not limitations! – reflexivity is a key strength in qualitative research.
 ---
 
 ## What to write

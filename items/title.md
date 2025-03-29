@@ -3,7 +3,11 @@ id: title
 title: Title
 checklist: 
     text: Describe the nature and topic of the study. Identify the study as qualitative or indicate the approach or data collection methods.
-#TODO: writing guide
+writing_guide: 
+    text: |
+        Your title should include the nature and topic of your study, whilst also sparking readers' interest. 
+
+        List the keywords you would like to include, and brainstorm options to discuss with your colleagues. 
 ---
 
 ## What to write
