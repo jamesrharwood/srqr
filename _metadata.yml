@@ -11,7 +11,6 @@ css:
   - ../../css/guidelines.css
   - ../../css/styles2.css
 appendix-style: default
-search: false
 footer: none
 articles:
   development: 
