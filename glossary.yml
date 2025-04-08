@@ -22,6 +22,7 @@ data collection methods:
   title: Data Collection Methods
   pattern: 'data collection (method|procedure)s?'
   text: Researchers may choose to use information from multiple sources, contexts, and/or time points depending on their approach and research question(s). Data collection methods include (but are not limited to) interviews, focus groups, observations (direct or indirect via video), and review of written text, photographs, and other documents or materials. See [{{< meta items.data-collection-instruments.title >}}]({{< meta items.data-collection-instruments.web_path >}}) for triangulation.
+#TODO fix this link
 iterative: Qualitative research often occurs as an iterative process, meaning that researchers begin data analysis before they complete data collection. The data collection and analysis process may occur in phases or stages. As part of an iterative collection-analysis process, researchers will often alter their data collection methods to explore their preliminary impressions in greater depth and/or actively pursue confirming and disconfirming perspectives. 
 study period: The start and end dates for data collection and analysis.
 ethnography: | 
